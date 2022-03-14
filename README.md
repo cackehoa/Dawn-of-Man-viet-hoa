@@ -1,4 +1,4 @@
-# Dawn-of-Man
+# Dawn of Man việt hóa
 Việt hóa trò chơi Dawn of Man
 
 # Giới thiệu về game
@@ -23,6 +23,10 @@ Mình dịch trên phiên bản 1.0.4 nên có thể không chạy hoặc có l�
 - Tải tất cả thư mục [Strings](Strings/) trong này
 - Copy và dán vào thư mục **Documents\DawnOfMan**
 - Khởi động game vào **Settings** -> **Language** -> chọn **Tiếng Việt**
+
+## Xem thêm hướng dẫn sử dụng github
+
+Nếu chưa biết cách sữ dụng [github](https://github.com) thì bạn có thể xem thêm [ở đây](https://github.com/cackehoa/cackehoa/blob/main/huongdan/HUONG-DAN.md)
 
 # Liên lạc và ủng hộ
 Ủng hộ tại: [Playerduo](https://playerduo.com/cackehoa)
