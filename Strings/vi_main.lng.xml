@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<!-- This is the name of the language as it will appear on the language select screen -->
+	<string name="language_name">Tiếng Việt</string>
+	
+	<!-- This is a colon that will separate two strings, we do this because in french you also have space before the colon -->
+	<string name="colon">: </string>
+	
+	<!-- Loading screen -->
+	<string name="loading">Đang tải</string>
+	<string name="press_any_key">Nhấn phím bất kỳ</string>
+	
+	<!-- Load/Save panel -->
+	<string name="playtime">Thời gian chơi</string>
+	<string name="save_panel_population">Dân số</string>
+	
+	<!-- Selection panel UI -->
+	<string name="raider">Kẻ cướp</string>
+	<string name="build_progress">Tiến trình xây dựng</string>
+	<string name="extractable_resources">Nguyên liệu có thể trích xuất</string>
+	<string name="pending_repair_materials">Đồ vật cần sửa chữa</string>
+	<string name="fish_amount">Số lượng cá</string>
+	<string name="mud_amount">Số lượng bùn</string>
+	<string name="no_recipe">Không có nhiệm vụ</string>
+	<string name="planting_progress">Đang trồng trọt</string>
+	<string name="action_progress">Đang hành động</string>
+	<string name="recycle_progress">Đang tái chế</string>
+	<string name="pending_construction_materials">Nguyên liệu còn thiếu</string>
+	
+	<!-- Tech confirm texts -->
+	<string name="confirm_research_copper_smelting">
+Bản chuẩn bị vào thời kỳ (b)Kim loại(/b).
+
+Chúng tôi khuyên bạn nên (b)Cải tạo(/b) vùng đất (b)cùa bạn(/b), có đủ người và vũ khí để bảo vệ chính mình khỏi kẻ cướp
+Bạn có chắc bạn muốn tiếp tục?
+</string>
+	
+	<!-- Game over dialog -->
+	<string name="game_over_title">Trò chơi kết thúc</string>
+	<string name="game_over_text">
+Tất cả người lớn đã chết. Bạn đã thất bại trong việc xây dựng nên một đế chế hùng mạnh
+Nhưng đừng thất vọng, đây là một phần của trò chơi, lần sau hãy thử lại với phong cách chơi khác
+	</string>
+	
+	<!-- Resource limit set to infinity, leave as is -->
+	<string name="inf">∞</string>
+	
+	<!-- Resource limit set to population, needs to use 3 letters max -->
+	<string name="pop">Pop</string> 
+
+	<!-- Tracked variables -->
+	<string name="tracked_variable_population">Dân số</string>
+	<string name="tracked_variable_food">Thực phẩm</string>
+	<string name="tracked_variable_domestic_animals">Vật nuôi </string>
+	<string name="tracked_variable_workload">Khối lượng công việc</string>
+
+	<!-- Key Bindings screen -->
+	<string name="binding_title_action">Hành động</string>
+	<string name="binding_title_control">Điều khiển</string>
+	<string name="binding_title_alternative">Luân phiên</string>
+	<string name="binding_press_key">Nhấn nút thích hợp</string>
+	<string name="bindings_reset">Đặt lại thiết lập ban đầu</string>
+
+	<!-- GameModes -->
+	<string name="game_mode">Chế độ chơi</string>
+	<string name="game_mode_normal">Thường</string>
+	<string name="game_mode_hardcore">Khó</string>
+	
+	<string name="game_mode_normal_description">
+- Lưu tiến trình chơi không giới hạn
+- Có thể tạm dừng trò chơi
+- Những bộ tộc khác có công nghệ giống bạn
+- Số lượng Kẻ cướp thấp
+- Giảm độ hung dữ của thú hoang
+	</string>
+	
+	<string name="game_mode_hardcore_description">
+- Chỉ được lưu một lần
+- Không thể tạm dừng trò chơi
+- Các bộ tộc tự do phát triển, công nghệ có thể khác nhau
+- Số lượng Kẻ cướp cao
+- Thú hoang hung dữ
+	</string>
+	
+	<!-- Community -->
+	<string name="community_workshop_text">Không có màn chơi cộng đồng nào khả dụng.(n)(n)Sử dụng nút phía dưới màn hình để tải thêm màn chơi từ cộng đồng.</string>
+	<string name="community_generic_text">Không có màn chơi cộng đồng nào khả dụng.(n)(n)Bạn có thể tải thêm màn chơi cộng đồng và đặt vào: Documents/DawnOfMan/Scenarios folder.</string>
+
+	<!-- Disasters -->
+	<string name="disaster_storm">Bão</string>
+	<string name="disaster_blizzard">Bão tuyết</string>
+
+	<!-- Quick panels -->
+	<string name="quick_panel_general">Chung</string>
+	<string name="quick_panel_food">Thực phẩm</string>
+	<string name="quick_panel_resources">Nguyên liệu</string>
+	<string name="quick_panel_grouped_resources">Nguyên liệu đã được nhóm</string> <!-- Hiện tất cả các nguyên liệu đã được nhóm theo loại -->
+	<string name="quick_panel_defense">Phòng thủ</string>
+	<string name="quick_panel_speed">Tốc độ</string>
+	<string name="quick_panel_transports">Di chuyển</string> <!-- Hiện số lượng xe bạn đang có -->
+	<string name="quick_panel_animals">Động vật</string>
+	<string name="quick_panel_food_chart">Biểu đồ thức ăn</string>
+	<string name="quick_panel_straw_chart">Biểu đồ rơm</string>	
+	
+	<!-- Trading -->
+	<string name="trade">Trao đổi</string>
+	<string name="trader">Thương gia</string>
+	<string name="trader_arrived">Thương gia đã tới</string>
+	<string name="trader_stock">Hòm đồ của thương gia</string>
+	<string name="trader_trade">Thương gia đổi</string>
+	<string name="settlement_trade">Bộ tộc đổi</string>
+	<string name="settlement_stock">Hòm đồ của bộ tộc</string>
+	<string name="no_items">Không có vật phẩm</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Hủy</string>
+	<string name="trade_value">Số lượng đổi</string>
+	<string name="trade_commission">Uỷ thác</string>
+	<string name="trade_including_commission">Tổng số đồ vật của thương gia, bao gồm cả đồ được ủy thác.</string>
+	<string name="commission_low">Uỷ thác Thấp</string>
+	<string name="commission_average">Uỷ thác Thường</string>
+	<string name="commission_high">Uỷ thác Cao</string>
+
+	<!-- Placement -->
+	<string name="structure_placement_text">Nhấn chuột trái để đặt.(n)Sử dụng phím (1) và (2) để xoay.(n)Shift+click để đặt nhiều.</string>
+	<string name="mine_placement_text">Nhấn chuột trái để đặt.(n)Cần phải đặt ở (1) mỏ quặng.</string>
+	<string name="field_placement_text">Nhấn và giữ để đặt vùng trồng trọt.</string>
+	<string name="wall_placement_text">Nhấn và giữ để đặt tường. Sử dụng phím (1) và (2) để thay đổi hình dạng.</string>
+	<string name="bridge_placement_text">Nhấn và giữ để đặt cầu.</string>
+	<string name="work_area_placement_text">Nhấn chuột trái để đặt.(n) Sử dụng phím (1) và (2) để thay đổi kích cỡ.(n)Shift+click để đặt nhiều.</string>
+	<string name="place_confirm">Đặt</string>
+	<string name="place_cancel">Hủy</string>
+
+	<!-- Temperatures, leave as is -->
+	<string name="celsius">°C</string>
+	<string name="fahrenheit">°F</string>
+
+	<!-- Eras -->
+	<string name="era">Thời kỳ</string>
+	<string name="era_paleolithic">Thời kỳ đồ đá cũ</string>
+	<string name="era_mesolithic">Thời kỳ Đồ đá giữa</string>
+	<string name="era_neolithic">Thời kỳ đồ đá mới</string>
+	<string name="era_copper_age">Thời đồ đồng đá</string>
+	<string name="era_bronze_age">Thời kỳ đồ đồng</string>
+	<string name="era_iron_age">Thời kỳ đồ sắt</string>
+	
+	<string name="super_era_stone_age">Thời kỳ đồ đá</string>
+	<string name="super_era_metal_age">Thời kỳ kim loại</string>	
+
+	<!-- Knowledge -->
+	<string name="knowledge">Điểm Thông thái</string>
+	<string name="knowledge_earned">Điểm Thông thái +(1)</string>
+	<string name="knowledge_population">Dân số đã đạt: (1)</string>
+	<string name="knowledge_animal_population">Số động vật đã đạt: (1)</string>
+	<string name="knowledge_first_structure_built">Công trình đầu tiên: (1)</string>
+	<string name="knowledge_first_raider_killed">Giết kẻ cướp lần đầu</string>
+	<string name="knowledge_first_resource_produced">Nguyên liệu đầu tiên được sản xuất: (1)</string>
+	<string name="knowledge_first_animal_hunted">Săn được con thú đầu tiên : (1)</string>
+	<string name="knowledge_first_resource_acquired">Nguyên liệu đầu tiên được khai thác: (1)</string>
+	<string name="knowledge_structure_built">Công trình được xây dựng: (1) x(2)</string>
+	<string name="knowledge_raider_killed">Giết kẻ cướp x(1)</string>
+	<string name="knowledge_resources_produced">Đã sản xuất: (1) x(2)</string>
+	<string name="knowledge_animals_hunted">Đã săn: (1) x(2)</string>
+	<string name="knowledge_resources_acquired">Đã khai thác: (1) x(2)</string>
+	<string name="knowledge_winter_survived">Sống sót qua mùa đông</string>
+	
+	<!-- Tech messages. These could be translated as: "Tech Unlocked: (1)", "Era Unlocked: (1)" and "Unlocks Era: (1)" in order to avoid problems with genders  -->
+	<string name="tech_unlocked">(1) Mở khóa</string>
+	<string name="era_unlocked">(1) Mở khóa</string>
+	<string name="era_tech">Mở khóa (1) Thời đại</string>
+
+	<!-- Game panels -->
+	<string name="new_save">Sao lưu mới</string>
+	<string name="main">Chung</string>
+	<string name="welfare">Phúc lợi</string>
+	<string name="prestige">Uy tín</string>
+	<string name="build">Xây dựng</string>
+	<string name="plant">Trồng</string>
+	<string name="place_work_area">Đặt nơi làm việc</string>
+	<string name="manage">Quản lý</string>
+	<string name="primal_vision">Tầm nhìn nguyên thủy</string>
+	<string name="quicksave">Lưu nhanh</string>
+	<string name="techs">Công nghệ</string>
+	<string name="knowledge_progress">Tiến trình thông thái</string>
+	<string name="click_to_unlock">Nhấn để mở khóa</string>
+	<string name="requires">Yêu cầu</string>
+	<string name="required_for">Yêu cầu để</string>	
+	<string name="already_unlocked">Đã mở khóa</string>
+	<string name="charts">Biểu đồ</string>
+	<string name="stats">Trạng thái</string>
+	<string name="resources">Nguyên liệu</string>
+	<string name="task">Nhiệm vụ</string>
+	<string name="tasks"> Các Nhiệm vụ</string>
+	<string name="activity">Hoạt động</string>
+	<string name="active_tasks">Nhiệm vụ đang thực hiện</string>
+	<string name="pending_tasks">Nhiệm vụ đang chờ</string>
+	<string name="workload">Tải trọng công việc</string>
+	<string name="performers">Thi hành</string>
+	<string name="target">Mục tiêu</string>
+	<string name="no_tasks">Không có nhiệm vụ</string>
+	<string name="limits">Các giới hạn</string>
+	<string name="population_limit">Giới hạn dân số</string>
+	<string name="allow_new_humans">Cho phép người dân mới</string>
+	<string name="domestic_animals">Vật nuôi</string>
+	<string name="panel_defense">Phòng thủ</string>
+	<string name="defense_alert_level">Mức độ cảnh báo</string>
+	<string name="defense_gates">Cổng</string>
+	<string name="task_target_none">Không có mục tiêu</string>
+	
+	<!-- Knowledge progress, these inticate the number of things killed/hunted/built/acquired -->
+	<string name="progress_general">Chung</string>
+	<string name="progress_raiders_killed">Đã giết Kẻ cướp</string>
+	<string name="progress_hunted_animals">Đã săn Động vật</string>
+	<string name="progress_built_structures">Xây công trình</string>
+	<string name="progress_resources_acquired">Khai thác Tài nguyên</string>
+	
+	<!-- Milestones-->
+	<string name="panel_milestones">Các mốc quan trọng</string>
+	<string name="milestone_locked">Khóa</string>
+	<string name="milestone_unlocked">Đã mở khóa</string>
+	<string name="milestone_unlocked_hardcore">Đã mở khóa chế độ Khó</string>
+
+	<!-- Game menu -->
+	<string name="game_menu">Màn hình game</string>
+	<string name="save_name_title">Lưu dưới tên</string>
+	<string name="confirm_title"> Xác nhận</string>
+	<string name="confirm_text">Bạn có chắc chắn muốn thoát?</string>
+	<string name="yes">Có</string>
+	<string name="no">Không</string>
+	<string name="on">Bật</string>
+	<string name="off">Tắt</string>	
+	<string name="back">Quay lại</string>
+	
+	<!-- Resource category flags -->
+	<string name="category_food_and_drink">Thức ăn và Nước uống</string>
+	<string name="category_clothing">Quần áo</string>
+	<string name="category_material">Nguyên vật liệu</string>
+	<string name="category_tool">Công cụ</string>
+	<string name="category_domestic">Thú nuôi</string>
+
+	<!-- Game speed -->
+	<string name="speed">Tốc độ game</string>
+	<string name="pause">Tạm dừng</string>
+	<string name="timescale1">Tốc độ thường</string>
+	<string name="timescale2">Tốc độ 2x</string>
+	<string name="timescale4">Tốc độ 4x</string>
+	<string name="timescale8">Tốc độ 8x</string>
+
+	<!-- Menus -->
+	<string name="menu">Màn hình chính</string>
+	<string name="menu_new_game">Trò chơi mới</string>
+	<string name="menu_video_settings">Hình ảnh</string>
+	<string name="menu_audio_settings">Âm thanh</string>
+	<string name="menu_misc_settings">Khác</string>
+	<string name="menu_gameplay_settings">Cài đặt Trò chơi</string>
+	<string name="menu_settings">Cài đặt</string>
+	<string name="menu_select_scenario">Tùy chọn cảnh</string>
+	<string name="select_location">Tùy chọn vị trí</string>
+	<string name="scenario_details">Chi tiết cảnh</string>
+	<string name="scenario_location">Vị trí</string>
+	<string name="menu_load">Tải</string>
+	<string name="menu_tutorial">Hướng dẫn</string>
+	<string name="menu_save">Lưu</string>
+	<string name="scenario_category_freeplay">Chơi tự do</string>
+	<string name="scenario_category_challenge">Thử thách</string>
+	<string name="scenario_category_development">Phát triển</string>
+	<string name="scenario_category_community">Cộng đồng</string>
+	<string name="menu_start">Bắt đầu</string>
+	<string name="menu_misc_scenarios">Các cảnh</string>
+	<string name="menu_back">Quay lại</string>
+	<string name="menu_quit">Thoát</string>
+	<string name="menu_continue">Tiếp tục</string>
+	<string name="menu_resume">Trở lại trò chơi</string>
+	<string name="menu_credits">Thông tin</string>
+	<string name="menu_achievements">Thành tích</string>
+	<string name="confirm_save">Bạn có chắc chắn ghi đè (1)?</string>
+	<string name="confirm_delete">Bạn có chắc chắn xóa (1)?</string>
+	<string name="controls">Điều khiển</string>
+	<string name="language">Ngôn ngữ</string>
+	<string name="requires_milestones">Yêu cầu</string>
+	<string name="settlement_name">Tên đế chế</string>
+	
+	<string name="tutorial_advice">
+Bạn chưa hoàn thành (b)Hướng dẫn(/b).(n)
+Trừ khi bạn thực sự biết bạn đang làm gì, chúng tôi (b)khuyên bạn(/b) hãy hoàn thành Hướng dẫn.(n)
+Bạn có muốn bắt đầu phần Hướng dẫn ngay không?
+	</string>
+	
+	<!-- Settings -->
+	<string name="resolution">Độ phân giải</string>
+
+	<string name="quality">Chất lượng</string>
+	<string name="quality_level_low">Thấp</string>
+	<string name="quality_level_medium">Trung bình</string>
+	<string name="quality_level_high">Cao</string>
+	<string name="quality_level_ultra">Siêu cao</string>
+
+	<string name="vsync">VSync</string>
+	<string name="fps_limit">Giới hạn khung hình</string>
+	<string name="anti_aliasing">Khử răng cưa</string>	
+	<string name="vsync_on">Tắt</string>
+	<string name="vsync_off">Bật</string>
+	<string name="antialiasing_on">Tắt</string>
+	<string name="antialiasing_off">Bật</string>		
+
+	<string name="sfx_volume">Hiệu ứng âm thanh</string>
+	<string name="music_volume">Nhạc</string>
+	
+	<string name="camera_rotation_mode">Xoay camera</string>
+	<string name="camera_rotation_turn">Quay</string>
+	<string name="camera_rotation_orbit">Quỹ đạo</string>
+
+	<!-- Ages and Genders-->
+	<string name="gender_male">Nam</string>
+	<string name="gender_female">Nữ</string>		
+		
+	<string name="human_male_young">Bé trai</string>
+	<string name="human_male_adult">Đàn ông</string>
+	<string name="human_male_old">Cụ ông</string>
+	
+	<string name="human_female_young">Bé gái</string>
+	<string name="human_female_adult">Phụ nữ</string>
+	<string name="human_female_old">Cụ bà</string>	
+	
+	<string name="animal_age_young">Nhỏ</string>
+	<string name="animal_age_adult">Trưởng thành</string>
+	<string name="animal_age_old">Già</string>
+	
+	<string name="animal_male_young">Con đực nhỏ</string>
+	<string name="animal_male_adult">Con đực trưởng thành</string>
+	<string name="animal_male_old">Con đực già</string>	
+	
+	<string name="animal_female_young">Con cái nhỏ</string>
+	<string name="animal_female_adult">Con cái trưởng thành</string>
+	<string name="animal_female_old">Con cái già</string>
+	
+	<string name="years_old">Tuổi</string>		
+
+	<!-- Stats panel -->
+	<string name="humans">Con người</string>
+	<string name="human_total">Tổng số người</string>
+	<string name="human_count_male_young">Bé trai</string>
+	<string name="human_count_male_adult">Đàn ông</string>
+	<string name="human_count_male_old">Cụ ông</string>
+	<string name="human_count_female_young">Bé gái</string>
+	<string name="human_count_female_adult">Phụ nữ</string>
+	<string name="human_count_female_old">Cụ bà</string>
+	<string name="pregnant">Có thai</string>
+	<string name="animals">Động vật</string>
+	<string name="transport">Vận chuyển</string>
+	
+	<!-- Domestic animals panel -->
+	<string name="animal_count_total">Tổng số</string>
+	<string name="animal_count_male">Đực</string>
+	<string name="animal_count_female">Cái</string>
+
+	<!-- Structure stats -->
+	<string name="stat_condition">Tình trạng</string>			<!-- How well preserved the structure is -->
+	<string name="stat_fuel">Nhiên liệu</string>								<!-- How much fuel (wood) there is in this structure -->
+	
+	<!-- Human stats -->
+	<string name="stat_health">Sức khỏe</string>						<!-- The level of wellbeing of a person -->
+	<string name="stat_nutrition">Dinh dưỡng</string>			<!-- The level of nutrition of a person -->
+	<string name="stat_hydration">Lượng nước</string>			<!-- The level of hydration of a person -->
+	<string name="stat_temperature">Nhiệt độ</string>	<!-- The body temperature of a person -->
+	<string name="stat_rest">Nghỉ ngơi</string>								<!-- How rested a person is -->
+	<string name="stat_stamina">Độ bền</string>					<!-- How much stamina a person has -->
+	<string name="stat_morale">Tinh thần</string>						<!-- The level of happiness of a person -->
+	
+	<!-- Animal stats -->
+	<string name="stat_production">Sản lượng</string>
+<!-- How far along the production of milk or wool is -->
+<!-- Attributes -->
+<!-- These define how good tools are at doing certain tasks -->
+	<string name="attribute_butchering">Mổ thịt</string>
+<!-- Extracting meat from animals -->
+	<string name="attribute_fighting">Chiến đấu</string>
+<!-- Hand to hand combat -->
+	<string name="attribute_fishing">Câu cá</string>
+	<string name="attribute_hunting">Săn bắn</string>						<!-- Hunting and ranged combat -->
+	<string name="attribute_woodcutting">Lấy gỗ</string>
+	<string name="attribute_mining">Đào mỏ</string>
+	<string name="attribute_harvesting">Thu hoạch</string>
+	
+	<!-- These are for clothing -->
+	<string name="attribute_warmth">Ấm áp</string>							<!-- How warm is this outfit -->
+	<string name="attribute_style">Thời trang</string>								<!-- How stylish is this outfit -->
+
+	<string name="attribute_bonus_speed">Tốc độ: (1)x</string>
+	<string name="attribute_bonus_damage">Sát thương: (1)</string>
+	<string name="attribute_bonus_temperature">Chịu lạnh: (1)</string>
+	<string name="attribute_bonus_style">Phù hợp với thời đại: (1)</string>
+	
+	<string name="attribute_description_butchering">Mổ động vật lấy thịt và da</string>
+	<string name="attribute_description_fighting">Chiến đấu chống lại Kẻ cướp hoặc Thú hoang</string>
+	<string name="attribute_description_fishing">Bắt cá từ sông hoặc hồ</string>
+	<string name="attribute_description_hunting">Săn bắn hoặc chiến đấu tầm xa với Kẻ cướp hoặc Thú hoang</string>
+	<string name="attribute_description_woodcutting">Chặt cây</string>
+	<string name="attribute_description_mining">Đào quặng trên bề mặt hoặc dưới lòng đất</string>
+	<string name="attribute_description_harvesting">Thu hoạch ngũ cốc hoặc các loại đậu</string>
+	<string name="attribute_description_warmth">Bảo vệ khỏi thời tiết lạnh</string>
+	<string name="attribute_description_style">Độ thời trang của quần áo: Mặc quần áo không thời trang giảm Phúc lợi</string>
+	
+	<!-- Seasons -->
+	<string name="season_spring">Mùa Xuân</string>
+	<string name="season_summer">Mùa Hạ</string>
+	<string name="season_fall">Mùa Thu</string>
+	<string name="season_winter">Mùa Đông</string>
+	
+	<!-- Activity -->
+	<string name="activity_category_unproductive">Rảnh rỗi</string>
+	<string name="activity_category_subsisting">Nghỉ ngơi</string>
+	<string name="activity_category_resources">Đang mang nguyên liệu</string>
+	<string name="activity_category_tasks">Đang làm nhiệm vụ</string>
+	
+	<!-- Tasks. These are all verbs. -->
+	<string name="task_plant">Trồng</string> 
+	<string name="task_hunt">Đi săn</string>
+	<string name="task_capture">Bắt</string>
+	<string name="task_cut_down">Chặt cây</string>
+	<string name="task_butcher">Mổ thịt</string>
+	<string name="task_slaughter">Giết</string>
+	<string name="task_milk">Vắt sữa</string>
+	<string name="task_collect">Nhặt</string>
+	<string name="task_gather_detail">Nhặt củi</string>
+	<string name="task_gather_prop">Lấy nguyên liệu</string>
+	<string name="task_harvest">Thu hoạch</string>
+	<string name="task_extract_mud">Lấy bùn</string>
+	<string name="task_extract_water">Lấy nước</string>
+	<string name="task_mine">Đào</string>
+	<string name="task_mine_underground">Đào dưới mỏ</string>
+	<string name="task_build">Xây dựng</string>
+	<string name="task_repair">Sửa chữa</string>
+	<string name="task_craft">Chế tạo</string>
+	<string name="task_go">Đi</string>
+	<string name="task_recycle">Tái chế</string>
+	<string name="task_upgrade">Nâng cấp</string>
+	<string name="task_shear">Cạo lông</string>
+	<string name="task_fish">Bắt cá</string>
+	<string name="task_fuel">Đốt nhiên liệu</string>
+	<string name="task_keep_animals">Giữ động vật</string>
+
+	<!-- Context actions. These are all verbs. -->
+	<string name="context_action_refuel">Tiếp nhiên liệu</string>
+	<string name="context_action_keep_animals">Cho động vật ăn</string>
+	<string name="context_action_repair">Sửa hữa</string>
+	<string name="context_action_cut_down">Chặt</string>
+	<string name="context_action_gather_prop">Lấy nguyên liệu</string>
+	<string name="context_action_gather_detail">Thu thập</string>
+	<string name="context_action_collect">Thu (1)</string>
+	<string name="context_action_mine">Đào</string>
+	<string name="context_action_hunt">Đi săn</string>
+	<string name="context_action_capture">Bắt</string>
+	<string name="context_action_butcher">Mổ thịt</string>
+	<string name="context_action_slaughter">Giết</string>
+	<string name="context_action_cancel_task">Hủy nhiệm vụ: (1)</string>
+	<string name="context_action_priority_up">Đặt làm Ưu tiên</string>
+	<string name="context_action_priority_down">Đặt làm Thường </string>	
+	<string name="context_action_remove_work_area">Hủy khu vực làm việc</string>
+	<string name="context_action_edit_work_area">Sửa khu vực làm việc</string>
+	<string name="context_action_remove_plant">Loại bỏ cây trồng</string>
+	<string name="context_action_recycle">Tái chế</string>
+	<string name="context_action_upgrade">Nâng cấp lên (1)</string>
+	<string name="context_action_fish">Bắt cá</string>
+	<string name="context_action_extract_mud">Lấy bùn</string>
+	<string name="context_action_extract_water">Lấy nước</string>
+	<string name="context_action_harvest">Thu hoạch</string>
+	<string name="context_action_plant">Trồng</string>
+	<string name="context_action_open_close">Mở/Đóng</string>
+	<string name="context_action_prepare_for_transport">Chuẩn bị vận chuyển</string>
+	<string name="context_action_previous_work_area">Khu vực làm việc trước</string>
+	<string name="context_action_next_work_area">Khu vực làm việc kế tiếp</string>
+	<string name="context_action_cancel_construction">Hủy xây dựng</string>
+	<string name="context_action_limits">Hiện giới hạn nguyên liệu liên quan</string>
+	<string name="context_action_milk">Vắt sữa</string>
+	<string name="context_action_shear">Cạo lông</string>
+	<string name="context_action_empty">Vứt tất cả</string>
+
+	<!-- Reasons why context actions can not be done. -->
+	<string name="disabled_reason_invalid_season">Chỉ có thể hoàn thành vào (1)</string>
+	<string name="disabled_reason_requires_tech">Yêu cầu công nghệ: (1)</string>
+	<string name="disabled_no_children_allowed">Trẻ em không thể làm nhiệm vụ: (1)</string>
+	<string name="disabled_no_tools_available">Không có công cụ để: (1)</string>
+	<string name="disabled_reason_exhausted">Hết tài nguyên, bạn cần đợi đến khi nó hồi phục</string>
+	<string name="disabled_reason_already_planted">Đã được trồng</string>
+	<string name="disabled_reason_no_animals">Không có động vật ở trong</string>
+	<string name="disabled_reason_not_young">Động vật không còn nhỏ</string>
+	<string name="disabled_reason_not_grown">Cây chưa lớn</string>
+	<string name="disabled_reason_tree_busy">Ai đó đang chặt cây</string>	
+	<string name="disabled_reason_not_damaged">Công trình này chưa hư hại</string>
+	<string name="disabled_reason_not_operational">Công trình không hoạt động</string>
+
+	<string name="error_location_not_reachable">Vị trí không thể với tới</string>
+	
+	<!-- Resource categories -->
+	<string name="sub_category_meat">Thịt</string>
+	<string name="sub_category_fish">Cá</string>
+	<string name="sub_category_vegetables">Rau củ</string>
+	<string name="sub_category_spear">Giáo</string>
+	<string name="sub_category_knife">Dao</string>
+	<string name="sub_category_axe">Rìu</string>
+	<string name="sub_category_fishing">Công cụ bắt cá</string>
+	<string name="sub_category_sickle">Liềm</string>
+	<string name="sub_category_pick">Cuốc chim</string>
+	<string name="sub_category_bow">Cung tên</string>
+	<string name="sub_category_sword">Kiếm</string>
+	
+	<!-- Structure classification -->
+	<string name="buildable_category_residence">Nơi ở</string>
+	<string name="buildable_category_storage">Kho chứa</string>
+	<string name="buildable_category_production">Sản xuất</string>
+	<string name="buildable_category_defensive">Phòng thủ</string>
+	<string name="buildable_category_metallurgy">Luyện kim</string>
+	<string name="buildable_category_spiritual">Tâm linh</string>
+	<string name="buildable_category_transport">Vận chuyển</string>
+
+	<!-- Work areas -->
+	<string name="work_area">Khu vực làm việc</string>
+	<string name="work_area_gather_sticks">Nhặt củi</string>
+	<string name="work_area_obtain_flint">Lấy đá lửa</string>
+	<string name="work_area_cut_down">Chặt cây</string>
+	<string name="work_area_fish">Bắt cá</string>
+	<string name="work_area_hunt">Săn bắn</string>
+	<string name="work_area_collect_and_harvest">Thu hoạch và gặt cây dại</string>
+	<string name="work_area_collect_tannin">Thu thập Tannin</string>
+	<string name="work_area_extract_water">Lấy nước</string>
+	<string name="work_area_extract_mud">Lấy bùn</string>
+	<string name="work_area_obtain_stone">Đập đá</string>
+	<string name="work_area_mine_ore">Đào quặng</string>
+
+	<!-- Messages -->
+	<!-- Feeel free to reagange the wording to avoid problems with genders i.e. "Last (1) has died" could be "Last animal has died: (1)" -->
+	<string name="message_death_generic">(1) đã chết</string>
+	<string name="message_death_starvation">(1) đã chết đói</string>
+	<string name="message_death_dehydration">(1) đã chết khát</string>
+	<string name="message_death_hypothermia">(1) đã chết rét</string>
+	<string name="message_death_old_age">(1) đã chết già</string>
+	<string name="message_death_disease">(1) đã chết vì nhiễm bệnh</string>
+	<string name="message_death_infection">(1) đã chết vì nhiễm trùng</string>
+	<string name="message_death_killed">(1) đã bị giết bởi (2)</string>
+	<string name="message_death_thunder">(1) đã bị sét đánh chết</string>
+	<string name="message_death_slaughtered">(1) đã bị giết</string>
+	
+	<string name="message_humans_death_generic">Người đã chết</string>
+	<string name="message_humans_death_starvation">Người đã chết đói</string>
+	<string name="message_humans_death_dehydration">Người đã chết khát</string>
+	<string name="message_humans_death_hypothermia">Người đã chết rét</string>
+	<string name="message_humans_death_old_age">Người đã chết già</string>
+	<string name="message_humans_death_disease">Người đã chết vì nhiễm bệnh</string>
+	<string name="message_humans_death_infection">Người đã chết vì nhiễm trùng</string>
+	<string name="message_humans_death_killed">Người đã bị giết</string>
+	<string name="message_humans_death_thunder">Người đã bị sét đánh chết</string>
+
+	<string name="message_resource_decay">Tài nguyên đã bị hỏng: (1)</string>
+	<string name="message_transport_decay">(1) không còn sử dụng được</string>
+	<string name="message_tool_decay">(1) không còn sử dụng được</string>
+	<string name="message_new_migrant">Người mới đã gia nhập</string>
+	<string name="message_new_human_birth">Em bé ra đời</string>
+	<string name="message_new_animal_birth">Động vật ra đời</string>
+	<string name="message_hunt_fail">(1) đã trốn thoát</string>
+	<string name="message_raider_attack"> Kẻ cướp tấn công</string>
+	<string name="message_animal_attack">(1) tấn công</string>
+	<string name="message_disease">(1) đã nhiễm bệnh</string>
+	<string name="message_infection">(1) đã nhiễm trùng</string>
+	<string name="message_milestone_unlocked">Mở khóa Mốc quan trọng</string>
+	<string name="message_crop_disease">Mùa màng nhiễm bệnh</string>
+	<string name="message_work_area_exhausted">Khu vực làm việc đã cạn kiệt</string>
+	<string name="message_animal_extinct">Động vật đã tuyệt chủng: (1)</string>
+	<string name="message_mine_exhausted">(1) Đã cạn kiệt</string>
+	<string name="message_all_animals_dead">Con (1) cuối cùng đã chết</string>
+
+	<!-- Key codes -->
+	<string name="arrow_right">→</string>
+	<string name="arrow_left">←</string>
+	<string name="arrow_up">↑</string>
+	<string name="arrow_down">↓</string>
+	<string name="keypad">Keypad</string>
+	<string name="keypad_enter">Keypad Enter</string>
+	<string name="keypad_minus">Keypad -</string>
+	<string name="keypad_plus">Keypad +</string>
+	<string name="escape">Esc</string>
+	<string name="delete">Del</string>
+	<string name="backspace">Backspace</string>
+	<string name="space">Space</string>
+	<string name="return">Return</string>
+	<string name="page_up">Page Up</string>
+	<string name="page_down">Page Down</string>
+
+	<!-- Tooltips -->
+	<string name="tooltip_population">Dân số: (1)(n)Sức chứa: (2)</string>
+	<string name="tooltip_fireplace">Nơi sưởi ấm và nấu thức ăn sống</string>
+	<string name="tooltip_status_prestige">Uy tín: (1)</string>
+	<string name="tooltip_status_morale">Phục hồi tinh thần: (1)</string>
+	<string name="tooltip_status_capacity">Công trình này có thể chứa (1) người</string>
+	<string name="tooltip_low_stats">Người này có chỉ số thấp, họ sẽ làm việc kém hiệu quả</string>
+	<string name="tooltip_durability">Tài nguyên sẽ tồn tại lâu hơn (1) lần khi chứa trong công trình này </string>
+	<string name="tooltip_decay_time">Tài nguyên sẽ hỏng trong (1) năm</string>
+	<string name="tooltip_condition_decay_time">Công trình sẽ hỏng trong (1) năm</string>
+	<string name="tooltip_use_count">Tài nguyên có thể sử dụng (1) lần</string>
+	<string name="tooltip_continuous_production">Sản xuất liên tục</string>
+	<string name="tooltip_craft">Chuột trái để sản xuất một lần.(n)(b)Chuột phải(/b) để bật/tắt sản xuất liên tục.</string>
+	<string name="tooltip_crafting_progress">(1)(n)Chuột phải để hủy</string>
+	<string name="tooltip_slot">Chỗ này chỉ đủ chứa một vật</string>
+	<string name="tooltip_slot_human">Chỗ cho một người</string>
+	<string name="tooltip_slot_animal">Chỗ cho một con vật</string>
+	<string name="tooltip_slot_multi">Chỗ này có thể chứa (1) vật cùng loại</string>
+	<string name="tooltip_slot_tool">Chỗ này có thể chứa một công cụ</string>
+	<string name="tooltip_slot_food">Chỗ này có thể chứa thức ăn hoặc nguyên liệu</string>
+	<string name="tooltip_slot_animal_food">Chỗ này có thể chứa thức ăn cho động vật</string>
+	<string name="tooltip_slot_clothing">Chỗ này có thể chứa một vật hoặc quần áo</string>
+	<string name="tooltip_slot_single_resource">Chỗ này có thể chứa tài nguyên: (1)</string>
+	<string name="tooltip_slot_wood">Chỗ này có thể chứa gỗ</string>
+	<string name="tooltip_slot_rock">Chỗ này có thể chứa đá</string>
+	<string name="tooltip_knowledge_points">Điểm thông thái khả dụng</string>
+	<string name="tooltip_message">Chuột trái để tập trung.(n)Chuột phải để hủy</string>
+	<string name="tooltip_focus_camera">Camera tập trung</string>
+	<string name="tooltip_help">Giúp đỡ</string>
+	<string name="tooltip_resource_limit_amount">Giới hạn sản xuất cho: (1), được đặt thành (2) đơn vị</string>
+	<string name="tooltip_resource_limit_percentage">Giới hạn sản xuất cho: (1), được đặt thành (2)% của dân số</string>
+	<string name="tooltip_resource_limit_infinity">Giới hạn sản xuất cho: (1), được đặt thành không giới hạn</string>
+	<string name="tooltip_work_area_max_people">Số người tối đa làm việc ở khu vực này</string>
+	<string name="tooltip_task">Chuột phải để hủy nhiệm vụ.</string>
+	<string name="tooltip_performer">Chuột trái để tập trung</string>
+	<string name="tooltip_welfare">Phúc lợi: (1)(n)Thước đo cho thấy đế chế của bạn đang thế nào.(n)Phụ thuộc vào chỉ số của dân chúng, thức ăn và quần áo.(n)Ảnh hưởng đến tần suất di cư và tỉ lệ sinh.</string>
+	<string name="tooltip_prestige">Uy tín: (1)(n)Thước đo cho thấy đế chế của bạn nổi tiếng thế nào.(n)Phụ thuộc vào số dân, công trình và công nghệ.(n)Ảnh hưởng đến tần suất nhập cư và tỉ lệ đến của thương gia.</string>
+	<string name="tooltip_resource_trade">(1)(n)Giá trị: (2)(n)Nhấn để đổi(n)Shift+click để đổi nhiều</string>
+	<string name="tooltip_no_alert">Không có cảnh báo: Hành vi bình thường, dân chúng của bạn sống ổn định</string>
+	<string name="tooltip_alert"> Cảnh báo: Ai có vũ khí sẽ làm nhiệm vụ chiến đấu, còn lại trốn vào nhà.</string>
+	<string name="tooltip_open_all_gates">Mở tất cả cửa</string>
+	<string name="tooltip_close_all_gates">Đóng tất cả cửa</string>
+	<string name="tooltip_milestones">Tổng số cột mốc</string>
+	<string name="tooltip_heavy">Nặng: Tài nguyên này cần di chuyển từng cái một, hoặc dùng xe kéo và xe đẩy</string>
+	<string name="tooltip_very_heavy">Rất nặng: Tài nguyên này cần vận chuyển bằng thiết bị đặc biệt</string>
+	<string name="tooltip_context_action_multiple">Chuột trái để thực hiện một lần.(n)Chuột phải để bật/tắt tự động thực hiện.</string>
+	<string name="tooltip_disease">Đang nhiễm bệnh</string>
+	<string name="tooltip_plant_disease">Cây trồng này bị nhiễm bệnh, và không thể thu hoạch</string>
+	<string name="tooltip_infection">Đang nhiễm trùng</string>
+	<string name="tooltip_multiselected_entity">Nhấn để hủy chọn số khác.(n)Shift+click để hủy chọn.</string>
+	<string name="tooltip_no_structures">Chưa thể xây dựng công trình loại này.</string>
+	<string name="tooltip_max_performers">Số người tối đa được giao nhiệm vụ: (1)</string>
+	<string name="tooltip_techs_unlockable">Công nghệ mới có thể được mở khóa</string>
+	<string name="tooltip_total_population">Tổng số dân</string>
+	<string name="tooltip_housing">Tổng số nhà.(n)Để người mới gia nhập vào cộng đồng, bạn cần có chỗ ở cho họ.</string>
+	<string name="tooltip_no_housing">Không có chỗ để chứa thêm người,(n)dân số của bạn sẽ không gia tăng.</string>
+	<string name="tooltip_animal_count">Động vật</string>
+	<string name="tooltip_sheltering_animals">Động vật cần nơi trú</string>
+	<string name="tooltip_animal_capacity">Tổng số nơi trú</string>
+	<string name="tooltip_steam_workshop_scenarios">Tải thêm cảnh từ Steam Workshop</string>
+	<string name="tooltip_steam_workshop_languages">Tải thêm ngôn ngữ từ Steam Workshop</string>	
+	<string name="tooltip_scenario_not_completed">Cảnh chưa hoàn thiện</string>
+	<string name="tooltip_scenario_completed">Cảnh đã hoàn thiện</string>
+	<string name="tooltip_scenario_completed_hardcore">Cảnh hoàn thiện ở chế độ khó</string>
+	<string name="tooltip_requires_scenario">Bản phải hoàn thiện (1) cảnh để mở khóa</string>
+	<string name="tooltip_available_soon">Sớm có</string>
+	<string name="tooltip_requires_milestones">Bạn phải mở khóa (1) Mốc để mở khóa cảnh này.(n)Kiếm Mốc bằng cách chơi tự do.</string>
+	<string name="tooltip_requires_milestones_short">Cần (1) Mốc</string>
+	<string name="tooltip_workload">Tỉ lệ giữa số công việc và số người trong đế chế của bạn. Hãy cố giữ tỉ lệ này dưới 150%. </string>
+	<string name="tooltip_retaliates">Con vật này có thể đáp trả khi bị tấn công.</string>
+	<string name="tooltip_draught">Con vật này có thể dùng để kéo xe.</string>
+	<string name="tooltip_predator">Con vật này có thể tấn công con người.</string>
+	<string name="tooltip_requires_shelter">Con vật này cần chỗ trú vào mùa đông.</string>
+	<string name="tooltip_knowledge_earned">Bạn sẽ nhận (1) điểm thông thái khi săn con vật này</string>
+	<string name="tooltip_storage_restrictions">(1) được cho phép ở cửa hàng</string>
+
+	<!-- Toasts -->
+	<string name="toast_screenshot_taken">Đã chụp ảnh màn hình</string>
+	<string name="toast_game_saved">Đã lưu trò chơi</string>
+	<string name="toast_saving">Đang lưu trò chơi</string>	
+	<string name="toast_invalid_entity_location">Vị trí không hợp lệ</string>
+	<string name="toast_invalid_entity_location_isolated">Đặt công trình ở đây có thể khiến khu vực này bị cô lập</string>
+
+	<!-- Status descriptions -->
+	<!-- These are likely to cause issues with genders in some languages when (1) gets replaced by male/female names, try to avoid using articles" -->
+	<string name="description_idle">Đang rảnh rỗi</string>
+	<string name="description_resting">Đang nghỉ ngơi</string>
+	<string name="description_recycling">Đang tái chế</string>
+	<string name="description_sheltering">Đang trú ẩn</string>
+	<string name="description_animal_sheltering">Đang trú ẩn</string>
+	<string name="description_attacking_ranged">Đang tấn công (1)</string>
+	<string name="description_attacking_melee">Đang tấn công (1)</string>
+	<string name="description_building">Đang xây dựng (1)</string>
+	<string name="description_repairing">Đang sửa chữa (1)</string>
+	<string name="description_butchering">Đang giết mổ (1)</string>
+	<string name="description_collecting">Đang thu thập (1)</string>
+	<string name="description_gathering_detail">Đang nhặt (1)</string>
+	<string name="description_gathering_prop">Đang thu hoạch (1)</string>
+	<string name="description_crafting">Đang chế tạo (1)</string>
+	<string name="description_dead">Đã chết</string>
+	<string name="description_drinking">Đang uống</string>
+	<string name="description_drinking_alcohol">Đang uống rượu</string>
+	<string name="description_eating">Đang ăn</string>
+	<string name="description_cooking">Đang nấu</string>
+	<string name="description_moving">Đang di chuyển</string>
+	<string name="description_going_entity">Đang chuẩn bị (1)</string>
+	<string name="description_going_animal">Đang đuổi theo (1)</string>
+	<string name="description_going_resource">Đang đi lấy (1)</string>
+	<string name="description_fishing">Đang câu cá</string>
+	<string name="description_extracting_mud">Đang lấy bùn</string>
+	<string name="description_extracting_water">Đang lấy nước</string>
+	<string name="description_mining">Đang đào</string>
+	<string name="description_mining_underground">Đang đào mỏ</string>
+	<string name="description_decaying">Đang phân rã</string>
+	<string name="description_cutting_down">Đang chặt</string>
+	<string name="description_harvesting">Đang thu hoạch</string>
+	<string name="description_planting">Đang trồng (1)</string>
+	<string name="description_recovering_morale">Đang lấy lại đức tin</string>
+	<string name="description_taming">Đang thuần hóa</string>
+	<string name="description_slaughtering">Đang giết (1)</string>
+	<string name="description_milking">Đang vắt sữa (1)</string>
+	<string name="description_shearing">Đang cạo lông (1)</string>
+	<string name="description_being_tamed">Đang được thuần hóa</string>
+	<string name="description_being_milked">Đang được lấy sữa</string>
+	<string name="description_being_sheared">Đang được cạo lông</string>
+	<string name="description_blocked">Đã chặn</string>
+	<string name="description_going_to_drink">Đang đi uống nước</string>
+	<string name="description_falling">Đang ngã</string>
+	<string name="description_celebrating">Đang ăn mừng</string>
+	<string name="description_pulling">Đang kéo xe</string>
+	<string name="description_wandering">Đang dạo quanh</string>
+	<string name="description_following">Đang đi theo</string>
+	
+	<!-- Game actions -->
+	<string name="key_bindings">Tổ hợp phím</string>
+	<string name="game_action_camera_move_forward">Chuyển máy quay lên trước</string>
+	<string name="game_action_camera_move_back">Chuyển máy quay về sau</string>
+	<string name="game_action_camera_move_left">Chuyển máy quay qua trái</string>
+	<string name="game_action_camera_move_right">Chuyển máy quay qua phải</string>
+	<string name="game_action_camera_rotate_left">Xoay máy quay qua trái </string>
+	<string name="game_action_camera_rotate_right">Xoay máy quay qua phải</string>
+	<string name="game_action_camera_pitch_up">Nhìn lên </string>
+	<string name="game_action_camera_pitch_down">Nhìn xuống</string>	
+	<string name="game_action_camera_zoom_in">Phóng to</string>
+	<string name="game_action_camera_zoom_out">Thu nhỏ</string>
+	<string name="game_action_camera_center_town">Chuyển máy qua về quần chúng</string>
+	
+	<string name="game_action_hunter_selection">Chọn thợ săn</string>
+	<string name="game_action_fighter_selection">Chọn chiến binh</string>
+	
+	<string name="game_action_open_panel_help">Bảng trợ giúp</string>
+	<string name="game_action_open_panel_stats">Bảng thống kê</string>
+	<string name="game_action_open_panel_charts">Biểu đồ</string>
+	<string name="game_action_open_panel_resources">Bảng tài nguyên</string>
+	<string name="game_action_open_panel_limits">Bảng giới hạn</string>
+	<string name="game_action_open_panel_domestic_animals">Bảng vật nuôi</string>	
+	<string name="game_action_open_panel_techs">Bảng công nghệ</string>
+	<string name="game_action_open_panel_tasks">Bảng nhiệm vụ</string>
+	<string name="game_action_open_panel_activity">Bảng hành động</string>
+	<string name="game_action_open_panel_defense">Bảng phòng thủ</string>
+	<string name="game_action_open_panel_milestones">Bảng Mốc</string>
+	<string name="game_action_open_panel_knowledge_progress">Bảng Tiến trình thông thái</string>
+	<string name="game_action_pause">Tạm dừng</string>
+	<string name="game_action_timescale1">Tốc độ thường</string>
+	<string name="game_action_timescale2">Tốc độ x2</string>
+	<string name="game_action_timescale4">Tốc độ x4</string>
+	<string name="game_action_timescale8">Tốc độ x8</string>
+	<string name="game_action_quicksave">Lưu nhanh</string>
+	<string name="game_action_remove">Loại bỏ</string>
+	<string name="game_action_placement_modifier_minus">Quay trái/Nhỏ đi</string>
+	<string name="game_action_placement_modifier_plus">Quay phải/Lớn hơn</string>
+	<string name="game_action_previous_work_area">Khu vực làm việc trước</string>
+	<string name="game_action_next_work_area">Khu vực làm việc kế tiếp</string>
+	<string name="game_action_primal_vision">Tầm nhìn nguyên thủy</string>
+
+	<!-- Alerts -->
+	<string name="warning_no_stables">Không đủ chỗ trú cho động vật</string>
+	<string name="warning_no_food">Chúng ta hết thức ăn</string>
+	<string name="warning_low_food">Chúng ta thiếu thức ăn</string>
+	<string name="warning_no_storage">Không còn chỗ chứa đồ</string>	
+	<string name="warning_no_tools">Một số người không có công cụ</string>
+	<string name="warning_no_warm_outfits">Một số người không có quần áo ấm</string>
+	<string name="warning_no_light_outfits">Một số người không có quần áo mỏng</string>
+	<string name="warning_no_fuel">Chúng ta hết nhiên liệu</string>
+	<string name="warning_no_fishing_tools">Chúng ta hết công cụ bắt cá</string>
+	<string name="warning_no_harvesting_tools">Chúng ta hết công cụ thu hoạch</string>
+	<string name="warning_low_harvesting_tools">Chúng ta đang thiếu công cụ thu hoạch</string>
+	<string name="warning_no_picks">Chúng ta hết cuốc chim</string>
+	<string name="warning_no_flint">Chúng ta hết đá lửa</string>
+	<string name="warning_no_straw">Chúng ta hết rơm để cho thú ăn</string>
+	<string name="warning_no_water">Chúng ta hết nước cho thú uống</string>
+	<string name="warning_no_knives">Chúng ta hết dao</string>
+	<string name="warning_low_knives">Chúng ta thiếu dao</string>
+	<string name="warning_no_hunting_tools">Chúng ta hết công cụ săn bắn</string>
+	<string name="warning_low_hunting_tools">Chúng ta thiếu công cụ săn bắn</string>	
+	<string name="warning_high_workload">Tải trọng công việc quá lớn</string>	
+
+	<!-- Credits -->
+	<string name="credits_title">Dawn of Man</string>
+	<string name="credits_subtitle">bởi Madruga Works</string>
+	
+	<string name="credits_category_design_and_programming">Thiết kế và Lập trình</string>
+	<string name="credits_category_art">Đồ họa</string>
+	<string name="credits_category_sound_and_music">Âm thanh và Nhạc</string>
+	<string name="credits_category_3d_art">Đồ họa 3D</string>
+	<string name="credits_category_animation">Hoạt họa </string>
+	<string name="credits_category_ui_art">Đồ họa UI</string>
+	<string name="credits_category_trailer_editor">Phiên bản </string>
+	<string name="credits_category_console_port">Chuyển sang máy chơi game</string>
+	<string name="credits_category_special_thanks">Đặc biệt cảm ơn</string>
+
+	<!-- Names of people, do not translate -->
+	<string name="credits_people_martino">Martiño Figueroa</string>
+	<string name="credits_people_tucho">Tucho Fernández</string>
+	<string name="credits_people_jose">Jose Castro</string>
+	<string name="credits_people_marcin">Marcin Mazurski</string>
+	<string name="credits_people_denny">Denny Lindberg</string>
+	<string name="credits_people_paolo">Paolo Boissel</string>
+	<string name="credits_people_mattia">Mattia Tomaselli</string>
+	<string name="credits_people_andrey">Andrey Kazmin</string>
+	<string name="credits_people_tom">Tom Williamson</string>
+	<string name="credits_people_rocio">Rocío Quirós</string>
+	
+	<string name="credits_people_anton">Antón Figueroa</string>
+	<string name="credits_people_daniel">Daniel Fernández Calo</string>
+	<string name="credits_people_michelle">Michelle Prendergast</string>	
+
+</strings>

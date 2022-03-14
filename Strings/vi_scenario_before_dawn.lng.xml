@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="scenario_before_dawn">Trước bình minh</string>
+	<string name="scenario_before_dawn_subtitle">Cùng cực</string>
+	<string name="scenario_before_dawn_description">Xây dựng một khu định cư đồ đá cũ. Rất ít công nghệ có sẵn.</string>
+	<string name="scenario_before_dawn_context">Khoảng 22.000 năm trước, khi thời kỳ băng giá đã đến đỉnh điểm. Phần lớn hành tinh bị bao phủ bởi băng và cuộc sống vô cùng khắc nghiệt.</string>
+	
+	<string name="goal_before_dawn_main">Tiếp cận dân số 50</string>	
+	
+	<string name="before_dawn_well_done">Làm tốt</string>	
+	<string name="before_dawn_completed">Bạn đã sống sót sau kịch bản</string>		
+</strings>

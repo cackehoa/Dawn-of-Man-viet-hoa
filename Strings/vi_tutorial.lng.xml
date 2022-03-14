@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<!-- Goals -->
+	<string name="scenario_tutorial">Hướng dẫn</string>
+	
+	<string name="goal_tutorial_move_camera">Di chuyển máy quay xử dụng phím (camera_move_keys)</string>
+	<string name="goal_tutorial_rotate_camera">Xoay camera xử dựng phím (camera_rotate_keys)</string>
+	
+	<string name="goal_tutorial_fish">Ra lệnh cho ai đó đi bắt cá: Chọn vào (b)sông(/b) rồi nhấn vào phím (b)bắt cá(/b)</string>
+	<string name="goal_tutorial_gather_sticks">Ra lệnh cho ai đó đi nhặt (b)Cây củi(/b)</string>
+	<string name="goal_tutorial_gather_flint">Ra lệnh cho ai đó đi lấy (b)Đá lửa(/b)</string>
+	<string name="goal_tutorial_wait_for_fish_and_gather">Đợi cho người của bạn lấy đủ 1 (b)Cá sống(/b), (b)Que củi(/b), và (b)Đá lửa(/b)</string>
+	
+	<string name="goal_tutorial_fish_work_area">Đặt một khu vực làm việc (b)bắt cá(/b)</string>
+	<string name="goal_tutorial_sticks_work_area">Đặt một khu vực làm việc (b)nhặt củi(/b)</string>
+	<string name="goal_tutorial_flint_work_area">Đặt một khu vực làm việc (b)lấy đá lửa(/b)</string>
+	<string name="goal_tutorial_berries_work_area">Đặt một khu vực làm việc (b)Hái và thu hoạch cây dại(/b)</string>
+
+	<string name="goal_tutorial_sticks_work_area_set_workers">Cho phép (b)3 công nhân (/b) làm việc ở khu vực (b)nhặt củi(/b)</string>
+	<string name="goal_tutorial_flint_work_area_set_workers">Cho phép (b)3 công nhân(/b) làm việc ở khu vực (b)lấy đá lửa(/b)</string>
+	<string name="goal_tutorial_wait_for_fish_and_gather2">Đợi người của bạn lấy đủ 3 đơn vị (b)Que củi(/b) và (b)Đá lửa(/b).</string>
+	
+	<string name="goal_tutorial_place_crafter">Đặt một (b)Xưởng chế tạo(/b)</string>
+	<string name="goal_tutorial_build_crafter">Đợi người của bạn xây dựng</string>	
+	
+	<string name="goal_tutorial_craft_bifaces">Điều khiển người của bạn làm (b)3 Mảnh đá(/b)</string>
+	<string name="goal_tutorial_craft_wooden_spears">Điều khiển người của bạn làm (b)3 Giáo gỗ(/b)</string>
+	<string name="goal_tutorial_wait_tools">Đợi cho tất cả công cụ săn bắn hoàn thành</string>
+	
+	<string name="goal_tutorial_primal_vision">(b)Bật tầm nhìn nguyên thủy(/b), sử dụng menu hoặc nhấn phím (primal_vision_key)</string>
+	<string name="goal_tutorial_hunt">Điều khiển người của bạn đi (b)săn một con mồi không nguy hiểm(/b), đánh dấu bởi màu xanh</string>
+	<string name="goal_tutorial_primal_vision_out">(b)Tắt tầm nhìn nguyên thủy(/b)</string>
+	<string name="goal_tutorial_hunt_wait">(b)Đợi(/b) người dân của bạn (b)săn(/b) con vật đó</string>		
+	
+	<string name="goal_tutorial_micro_hunt">Đưa (b)2 người(/b) đi săn cùng một con thú: (b)Chọn(/b) người, rồi (b)chuột phải(/b) lên con thú</string>		
+
+	<string name="goal_tutorial_place_skins_dryers">Đặt (b)2 Giá phơi Da(/b)</string>		
+	<string name="goal_tutorial_wait_skins">Đợi cho người của bạn phơi (b)2 Da(/b)</string>		
+	
+	<string name="goal_tutorial_research_food_drying">Mở (b)Bảng điều khiển Công nghệ(/b) sử dụng phím menu hoặc nhấn (techs_key),(n)và học công nghệ (b)Phơi thực phẩm(/b)</string>			
+	<string name="goal_tutorial_place_food_dryer">Đặt một (b)Giá phơi thực phẩm(/b)</string>			
+	<string name="goal_tutorial_place_storage_tent">Đặt một (b)Lều lưu trữ(/b)</string>			
+	<string name="goal_tutorial_wait_food_drying">Đợi người của bạn sản xuất 1 (b)Thịt khô(/b) và (b)Cá khô(/b)</string>
+
+	<string name="goal_tutorial_continuous_production_bifaces">Bật sản xuất liên tục (b)Mảnh đá(/b)</string>	
+	<string name="goal_tutorial_continuous_production_wooden_spears">Bật sản xuất liên tục (b)Giáo gỗ(/b)</string>
+	<string name="goal_tutorial_continuous_production_wooden_harpoons">Bật sản xuất liên tục (b)Lao gỗ(/b)</string>	
+	
+	<string name="goals_hint_right_click">bạn có thể bật (b)Sản xuất liên tục(/b) một vật bằng cách (b)nhấn chuột phải(/b) lên nó</string>	
+	
+	<string name="goal_tutorial_place_tents">Đặt (b)2 Lều(/b)</string>
+	<string name="goal_tutorial_wait_tents">Đợi người của bạn xây xong (b)Lều(/b)</string>
+
+	<!-- Messages -->
+	<string name="tutorial_settlement_name">Đế chế Hướng dẫn</string>
+	<string name="tutorial_well_done">Làm tốt lắm!</string>
+	
+	<string name="tutorial_welcome_title">Chào mừng đến với Dawn Of Man</string>
+	
+	<string name="tutorial_welcome">
+Trong tựa game này bạn điều khiển nhóm (b)Người cổ đại(/b) cố gắng (b)sinh tồn(/b).
+Hướng dẫn này giải thích những điều cơ bản, bạn có thể xem (b)trợ giúp trong game(/b) để được hướng dẫn nâng cao.
+(b)Phiên dịch bởi Dương FG(/b).
+(b)Cập nhật thêm bởi Cắc kè hoa(/b).
+	</string>
+
+	<string name="tutorial_camera_controls_title">Điều khiển máy quay</string>
+
+	<string name="tutorial_camera_controls">
+Dawn of Man sử dụng Điều khiển máy quay kiểu FPS.
+Di chuyển máy quay sử dụng phím (camera_move_keys).
+Quay máy quay sử dụng phím (camera_rotate_keys).
+Phóng to sử dụng (b)con lăn chuột(/b).
+	</string>
+
+	<string name="tutorial_camera_controls_done">
+Lưu ý rằng bạn có thể (b)xoay máy quay(/b) xung quanh một điểm bằng cách (b)quay và lia máy(/b) cùng một lúc.
+Bạn có thể xem phần điều khiển nâng cao ở mục Trợ giúp, và (b)tùy chỉnh các phím(/b) ở mục (b)Cài đặt(/b).
+	</string>
+
+	<string name="tutorial_fish_title">
+Bắt cá
+	</string>
+
+	<string name="tutorial_fish">
+Người của bạn sẽ cần (b)nguồn thức ăn ổn định(/b) để sống sót.
+Một trong những nguồn thức ăn đó là (b)cá(/b) từ (b)sông(/b) và (b)hồ(/b).
+Để điều khiển người dân đi bắt cá, chọn một khúc sông, rồi nhấn nút (b)bắt cá(/b).
+	</string>
+
+	<string name="tutorial_fish_done">
+Bạn có thể điều khiển người dân làm việc bằng cách (b)chọn(/b) một vật như (b)cây cối(/b), (b)sông hồ(/b), (b)thú vật(/b), (b)công trình(/b)..., rồi chọn một trong bảng chọn.
+	</string>
+
+	<string name="tutorial_gather_title">
+Nguyên vật liệu
+	</string>
+
+	<string name="tutorial_gather">
+Tiếp theo, bạn cần thu thập một số nguyên vật liệu cơ bản, như (b)Que củi(/b) và (b)Đá lửa(/b).
+	</string>
+
+	<string name="tutorial_gather_done">
+Giờ bạn đã biết cách (b)giao nhiệm vụ cho(/b) người dân của bạn. Đây là một cách để (b)làm việc ở quy mô nhỏ(/b).
+	</string>
+
+	<string name="tutorial_work_areas_title">
+Khu vực làm việc
+	</string>
+
+	<string name="tutorial_work_areas">
+Quá nhiều (b)quy mô làm việc nhỏ(/b) thì thật tẻ nhạt và (b)kém hiệu quả(/b).
+(b)Khu vực làm việc(/b) là một cách để ra lệnh cho người dân của bạn làm một công việc liên tục.
+Bạn có thể chọn một (b)địa điểm(/b), một (b)giới hạn tài nguyên(/b) và (b)số người tối đa(/b) thực hiện nhiệm vụ tại thời điểm đã cho.
+	</string>
+	
+	<string name="tutorial_work_areas_set_workers">
+Mặc định chỉ có một người đi đến (b)khu vực làm việc(/b), nhưng bạn có thể tăng thêm nếu cần thiết.
+	</string>	
+	
+	<string name="tutorial_work_areas_done">
+Tốt lắm, giờ người của bạn sẽ tiếp tục thu thập tài nguyên cho tới khi (b)đạt tới giới hạn(/b).
+Lưu ý rằng (b)Quả mọng(/b) chỉ có thể thu hoạch được vào (b)Mùa hè(/b), một số tài nguyên khác trong trò chơi chỉ có thể thu hoạch ở một mùa nhất định.
+	</string>		
+	
+	<string name="tutorial_tools_title">
+Công cụ
+	</string>
+
+	<string name="tutorial_tools">
+Một số nhiệm vụ như săn bắn, bắt cá, giết mổ, thu hoạch hay đào mỏ, chỉ có thể thực hiện được nếu bạn có (b)công cụ(/b) thích hợp.
+Những công cụ này cần được chế tạo trước, sau đó người dân sẽ dùng nó để thực hiện nhiệm vụ.
+	</string>	
+	
+	<string name="tutorial_crafting_title">
+Chế tạo
+	</string>
+
+	<string name="tutorial_build_crafter">
+Giờ bạn đã có một số nguyên liệu thô, hãy chế tạo một số (b)Công cụ săn bắn(/b).
+Công trình chế tạo chính ở Thời kỳ đồ đá là (b)Nhà chế tạo(/b), để xây dựng, chọn mục Xây dựng, rồi chọn Sản xuất, và chọn Nhà chế tạo.
+	</string>
+
+	<string name="tutorial_craft_resources">
+Để chế tạo công cụ, nhấn vào (b)Nhà chế tạo(/b) rồi nhấn vào một công thức làm.
+Nhiệm vụ chế tạo sẽ được đưa vào hàng chờ và một người dân của bạn sẽ thực hiện sớm nhất có thể.
+Hãy chế tạo vài cái (b)Giáo gỗ(/b) để săn động vật và vài (b)Mảnh đá(/b) để mổ thịt chúng.
+	</string>
+
+	<string name="tutorial_craft_resources_done">
+Giờ chúng ta đã có đủ công cụ để đi săn.
+	</string>
+	
+	<string name="tutorial_hunting_title">
+Săn bắn
+	</string>
+	
+	<string name="tutorial_hunting">
+(b)Săn bắn(/b) Là một việc khá khó khăn ở thời kỳ Đồ đá. Giết một con vật lớn với đá và que sẽ không đơn giản.
+Sử dụng (b)tầm nhìn nguyên thủy(/b) để tìm con mồi dễ săn (đánh dấu bởi màu xanh lá), tránh con thú lớn và thú săn mồi cho đến khi bạn có công cụ tốt và sức người lớn hơn.
+Để(b) săn một con thú(/b), nhấn chọn con thú đó, rồi nhấn nút (b)Săn thú(/b).
+	</string>
+	
+	<string name="tutorial_hunting_done">
+Khi con vật đã bị giết, người của bạn sẽ (b)mổ thịt(/b) nó và mang (b)tài nguyên về trại(/b).
+Khi săn bắn theo cách này, người của bạn sẽ tự quyết định đi bao nhiêu người, dựa trên độ khó của con mồi.
+	</string>	
+	
+	<string name="tutorial_micromanagement_title">Quy mô làm việc nhỏ</string>	
+		
+	<string name="tutorial_micromanagement">
+Đôi lúc, bạn có thể muốn kiểm soát hành động của dân chúng.
+Bạn có thể làm điều này bằng cách (b)chọn(/b) vài người, (b)rồi nhấn chuột phải(/b) vào một địa hình hoặc mục tiêu.
+Bằng cách này bạn có thể (b)điều khiển dân của bạn đi xung quanh(/b), hoặc (b)chỉ định(/b) một hoặc nhiều người làm nhiệm vụ (b)nhất định(/b).
+Điều này đặc biệt hữu dụng khi săn bắn lúc đầu, khi mà dân chúng và công cụ của bạn còn thiếu.
+	</string>
+	
+	<string name="tutorial_micromanagement_done">
+bạn có thể xem phần (b)Trợ giúp trong trò chơi(/b) để xem hướng dẫn cụ thể về những cách để điều khiển người dân của bạn.
+	</string>	
+	
+	<string name="tutorial_skin_processing_title">Giá phơi Da</string>		
+	
+	<string name="tutorial_skin_processing">
+Một trong những tài nguyên bạn lấy được từ động vật là (b)Da thô(/b), chúng dùng để làm quần áo và xây dựng công trình cùng một số việc khác.
+Tuy nhiên (b)Da thô(/b) không thể sử dụng trực tiếp, bạn cần phơi khô chúng, để làm điều này bạn cần (b)Giá phơi da(/b).
+	</string>			
+	
+	<string name="tutorial_skin_processing_done">
+Luôn luôn lưu trữ một chút (b)Da khô(/b) vì chúng là công cụ may mặc và xây dựng chủ yếu trong thời kỳ đầu.
+	</string>
+	
+	<string name="tutorial_knowledge_title">Điểm thông thái</string>				
+	
+	<string name="tutorial_knowledge">
+Trong trò chơi, bạn sẽ nhận được (b)Điểm thông thái(/b) Khi thực hiện một số hành động như: Săn con vật mới, Thu thập tài nguyên mới, Đạt tới số dân nhất định, v...v.
+Bạn có thể dùng số điểm này để (b)học công nghệ mới(/b), điều này sẽ mở khóa công trình, cây trồng và công nghệ cơ khí mới.
+	</string>			
+
+	<string name="tutorial_food_drying_title">Điểm thông thái</string>					
+	
+	<string name="tutorial_food_drying">
+Công nghệ (b)Phơi thực phẩm(/b) mở khóa (b)Giá phơi thực phẩm(/b), điều này sẽ cho phép bạn xử lý (b)Thịt sống(/b) và (b)Cá sống(/b) thành (b)Thịt khô(/b) và (b)Cá khô(/b).
+Những thứ này tồn tại lâu hơn nhiều và có thể (b)lưu trữ cho mùa đông(/b) ở một địa điểm an toàn.
+	</string>			
+	
+	<string name="tutorial_food_drying_done">
+Hãy nhớ luôn phơi khô thức ăn và cất chúng ở các công trình (b)nhà kho(/b) để giữ chúng tồn tại càng lâu càng tốt.
+	</string>				
+	
+	<string name="tutorial_continuous_production_title">
+Sản xuất liên tục
+	</string>				
+	
+	<string name="tutorial_continuous_production">
+Sản xuất từng tài nguyên một sẽ thật buồn chán và (b)kém hiệu quả(/b).		
+Bạn có thể (b)chuột phải(/b) vào một công thức để bật (b)Sản xuất liên tục(/b).
+Người của bạn sau đó sẽ liên tục sản xuất cho tới khi đạt tới (b)giới hạn tài nguyên(/b).
+	</string>	
+	
+	<string name="tutorial_continuous_production_done">
+Giờ người của bạn sẽ (b)liên tục(/b) sản xuất công cụ cho tới khi đạt tới (b)giới hạn tài nguyên(/b).
+Lưu ý rằng một số công thức được đặt thành sản xuất liên tục theo mặc định.
+	</string>				
+	
+	<string name="tutorial_expansion_title">Bành trướng</string>				
+	
+	<string name="tutorial_expansion">
+Nếu tất cả mọi người được ăn no mặc ấm, điểm (b)phúc lợi(/b) và (b)uy tín(/b) của bạn sẽ tăng và sẽ có nhiều người muốn gia nhập hơn.
+Để người mới gia nhập, bạn cần xây thêm chỗ ở cho họ, nếu không họ sẽ không tới.
+	</string>		
+	
+	<string name="tutorial_expansion_done">	
+Giờ người mới sẽ ra nhập đế chế của bạn.
+Lưu ý rằng dân số của bạn cũng tăng nếu dân chúng của bạn sinh nở, điều này quan trọng hơn khi bạn có nhiều người và có tỷ lệ sinh cao. 
+	</string>	
+	
+	<string name="tutorial_completed">
+Đó là những thứ cơ bản. Lưu ý rằng có một số điều nâng cao chưa được giải thích ở đây.
+Bạn có thể tìm thêm thông tin ở (b)gợi ý ở màn hình chờ(/b), (b)gợi ý ở giao diện(/b), hoặc ở mục trợ giúp (b)trong trò chơi(/b), những thứ này sẽ giải thích mọi thứ cụ thể và chi tiết hơn nhiều.
+	</string>	
+	
+</strings>

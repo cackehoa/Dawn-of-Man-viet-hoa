@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<string name="twisty_river">Dòng sông uống lượng</string>
+	<string name="forest_river">Dòng sông trong rừng</string>
+	<string name="river_fork">Ngã ba sông</string>
+	<string name="lake_valley">Hồ thung lũng</string>
+	<string name="mountain_lake">Hồ trên núi</string>	
+	<string name="merging_streams">Hợp nhất dòng sông</string>
+
+	<string name="scenario_continental_dawn">Bình minh lục địa</string>
+	<string name="scenario_continental_dawn_subtitle">Có thể tiếp cận</string>
+	<string name="scenario_continental_dawn_description">Phát triển và mở rộng khu định cư, từ thời kỳ đồ đá đến thời kỳ đồ sắt.</string>
+	<string name="scenario_continental_dawn_context">Khoảng 12.000 năm trước thời kỳ băng hà vừa kết thúc. Hầu hết lục địa Châu Âu dễ sống hơn rất nhiều, dân số loài người phát triển mạnh và cuộc cách mạng thời đồ đá mới bắt đầu.</string>
+
+	<string name="milestone_hunting_and_gathering">Săn bắn và hái lượm</string>
+	<string name="milestone_hunting_and_gathering_description">Tích trữ 3 đơn vị Thịt sống và 3 đơn vị Quả mọng</string>
+	<string name="milestone_hunting_and_gathering_text">Bây giờ bạn biết những điều cơ bản</string>
+	
+	<string name="milestone_survival">Sự sống còn</string>
+	<string name="milestone_survival_description">Tồn tại 2 năm</string>
+
+	<string name="milestone_humble_beginnings">Khởi đầu khiêm tốn</string>
+	<string name="milestone_humble_beginnings_description">Mở khóa Thời kỳ đồ đá cũ</string>
+	
+	<string name="milestone_expansion">Sự bành trướng</string>
+	<string name="milestone_expansion_description">Có 20 người trong khu định cư của bạn</string>
+
+	<string name="milestone_neofarmer">Nông dân thời đại</string>
+	<string name="milestone_neofarmer_description">Mở khóa tất cả các cây trồng Thời kỳ đồ đá mới</string>
+
+	<string name="milestone_megalomania">Niềm tin vĩnh cửu</string>
+	<string name="milestone_megalomania_description">Xây Vòng tròn đá</string>
+
+	<string name="milestone_animal_control">Kiểm soát động vật</string>
+	<string name="milestone_animal_control_description">Có 20 con vật nuôi thuần hóa</string>
+
+	<string name="milestone_metal_alloy">Hợp kim kim loại</string>
+	<string name="milestone_metal_alloy_description">Có 1 đơn vị Đồng</string>
+
+	<string name="milestone_the_riddle_of_steel">Câu đố về thép</string>
+	<string name="milestone_the_riddle_of_steel_description">Có 1 đơn vị thép</string>
+
+	<string name="milestone_consolidation">Hợp nhất</string>
+	<string name="milestone_consolidation_description">Có 100 người trong khu định cư của bạn</string>
+
+</strings>

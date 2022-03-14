@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<!-- 
+	Important: These are the names of all the entities in the game, they also get mentioned in other places in the game, 
+	it is very important that these get translated in the same way in all places 
+	-->
+	
+	<!-- Humans -->
+	<string name="human_primitive_human">Người nguyên thủy</string>
+
+	<!-- Animals. These are used for young/adult/old and male/female animals, try to find a word that is generic enough in the language -->
+	<string name="animal_bear">Gấu</string>
+	<string name="animal_cave_bear">Gấu hang động</string>
+	<string name="animal_deer">Nai</string>
+	<string name="animal_megaloceros">Nai sừng tấm Ireland</string>
+	<string name="animal_reindeer">Tuần lộc</string>
+	<string name="animal_wolf">Chó sói</string>
+	<string name="animal_cave_lion">Sử tử hang</string>
+	<string name="animal_dog">Chó</string>
+	<string name="animal_mammoth">Ma-mút</string>
+	<string name="animal_woolly_rhinoceros">Tê giác lông mượt</string>
+	<string name="animal_vulture">Kền kền</string>
+	<string name="animal_eagle">Đại bàng</string>
+	<string name="animal_dove">Bồ câu</string>
+	<string name="animal_ibex">Dê núi</string>
+	<string name="animal_mouflon">Cừu Mouflon</string>
+	<string name="animal_goat">Dê</string>
+	<string name="animal_sheep">Cừu</string>
+	<string name="animal_ancient_bison">Bò rừng cổ đại</string>
+	<string name="animal_bison">Bò rừng Bison</string>
+	<string name="animal_pig">Lợn</string>
+	<string name="animal_boar">Lợn rừng</string>
+	<string name="animal_aurochs">Bò rừng châu Âu Aurochs</string>
+	<string name="animal_cattle">Bò nhà</string>
+	<string name="animal_wild_horse">Ngựa hoang</string>
+	<string name="animal_horse">Ngựa nhà</string>
+	<string name="animal_wild_donkey">Lừa hoang</string>
+	<string name="animal_donkey">Lừa nhà</string>
+	
+	<!-- Structures -->
+	<string name="structure_tent">Lều</string>
+	<string name="structure_hut">Chòi</string>
+	<string name="structure_storage_tent">Lều lưu trữ</string>
+	<string name="structure_wood_pile">Đống gỗ</string>
+	<string name="structure_haystack">Đống rơm</string>
+	<string name="structure_rock_pile">Đống đá</string>
+	<string name="structure_crafter">Nhà chế tạo</string>
+	<string name="structure_food_dryer">Giá phơi thực phẩm</string>
+	<string name="structure_skins_dryer">Giá phơi Da</string>
+	<string name="structure_hearth">Bếp lửa</string>
+	<string name="structure_tanner">Da thuộc</string>
+	<string name="structure_mortar">Cối xay</string>
+	<string name="structure_storage_hut">Chòi lưu trữ</string>
+	<string name="structure_roundhouse">Nhà tròn</string>
+	<string name="structure_warehouse">Nhà chứa</string>
+	<string name="structure_granary">Kho chứa thực phẩm</string>
+	<string name="structure_flint_mine">Mỏ đá lửa</string>
+	<string name="structure_copper_mine">Mỏ đồng</string>
+	<string name="structure_tin_mine">Mỏ thiếc</string>
+	<string name="structure_iron_mine">Mỏ sắt</string>
+	<string name="structure_workshop">Xưởng</string>
+	<string name="structure_metalsmith">Xưởng kim loại</string>
+	<string name="structure_blacksmith">Xưởng rèn</string>
+	<string name="structure_charcoal_pit">Hố than</string>
+	<string name="structure_pit_furnace">Lò nung</string>
+	<string name="structure_bloomery">Lò nở</string>
+	<string name="structure_totem">Vật tổ</string>
+	<string name="structure_skull_pole">Cột xương</string>
+	<string name="structure_stables">Chuồng</string>
+	<string name="structure_weaver">Xưởng dệt</string>
+	<string name="structure_outfitter">Xưởng may quần áo</string>
+	<string name="structure_well">Giếng</string>
+	<string name="structure_menhir">Đá lớn</string>
+	<string name="structure_dolmen">Mộ đá</string>
+	<string name="structure_stone_circle">Vòng tròn đá</string>
+	<string name="structure_palisade">Cọc nhọn</string>
+	<string name="structure_wall">Tường</string>
+	<string name="structure_gate">Cổng</string>
+	<string name="structure_reinforced_gate">Cổng kiên cố</string>
+	<string name="structure_watchtower">Chòi canh</string>
+	<string name="structure_guard_tower">Tháp canh</string>
+	<string name="structure_brewery">Xưởng bia</string>
+	<string name="structure_watermill">Cối xay nước</string>
+	<string name="structure_oven">Lò</string>
+	<string name="structure_bridge">Cầu</string>
+
+	<!-- Resources -->
+	<string name="resource_wooden_spear">Giáo gỗ</string>
+	<string name="resource_wooden_harpoon">Lao gỗ</string>
+	<string name="resource_bone_harpoon">Lao xương</string>
+	<string name="resource_fishing_rod">Cần câu</string>
+	<string name="resource_bone_spear">Giáo xương</string>
+	<string name="resource_flint_spear">Giáo đá</string>
+	<string name="resource_biface">Mảnh đá</string>
+	<string name="resource_flint_axe">Rìu đá</string>
+	<string name="resource_flint_pick">Cuốc chim đá</string>
+	<string name="resource_flint">Đá lửa</string>
+	<string name="resource_sticks">Que củi</string>
+	<string name="resource_berries">Quả mọng</string>
+	<string name="resource_fruit">Trái cây</string>
+	<string name="resource_nuts">Hạt</string>
+	<string name="resource_raw_skin">Da thô</string>
+	<string name="resource_raw_meat">Thịt sống</string>
+	<string name="resource_bone">Xương</string>
+	<string name="resource_cured_meat">Thịt khô</string>
+	<string name="resource_dry_skin">Da phơi khô</string>
+	<string name="resource_leather">Da thuộc</string>
+	<string name="resource_raw_fish">Cá sống</string>
+	<string name="resource_dry_fish">Cá khô</string>
+	<string name="resource_log">Khúc gỗ</string>
+	<string name="resource_grain">Ngũ cốc</string>
+	<string name="resource_flour">Bột mỳ</string>
+	<string name="resource_bread">Bánh mỳ</string>
+	<string name="resource_waterskin">Túi nước</string>
+	<string name="resource_stone">Đá</string>
+	<string name="resource_charcoal">Than củi</string>
+	<string name="resource_copper_ore">Quặng đồng</string>
+	<string name="resource_tin_ore">Quặng thiếc</string>
+	<string name="resource_iron_ore">Quặng sắt</string>
+	<string name="resource_copper">Đồng</string>
+	<string name="resource_bronze">Đồng đỏ</string>
+	<string name="resource_iron">Sắt</string>
+	<string name="resource_steel">Thép</string>
+	<string name="resource_bow">Cung tên</string>
+	<string name="resource_composite_bow">Cung tổng hợp</string>
+	<string name="resource_straw">Rơm</string>
+	<string name="resource_mud">Bùn</string>
+	<string name="resource_sling">Ná</string>
+	<string name="resource_tannin">Thuộc da</string>
+	<string name="resource_copper_spear">Giáo đồng</string>
+	<string name="resource_copper_axe">Rìu đồng</string>
+	<string name="resource_bronze_spear">Giáo đồng đỏ</string>
+	<string name="resource_bronze_knife">Dao đồng đỏ</string>
+	<string name="resource_bronze_axe">Rìu đồng đỏ</string>
+	<string name="resource_iron_spear">Giáo sắt</string>
+	<string name="resource_iron_knife">Dao sắt</string>
+	<string name="resource_iron_axe">Rìu sắt</string>
+	<string name="resource_steel_spear">Giáo thép</string>
+	<string name="resource_steel_knife">Dao thép</string>
+	<string name="resource_steel_axe">Rìu thép</string>
+	<string name="resource_bronze_sword">Kiếm đồng đỏ</string>
+	<string name="resource_iron_sword">Kiếm sắt</string>
+	<string name="resource_flint_knife">Dao đá</string>
+	<string name="resource_copper_knife">Dao đồng</string>
+	<string name="resource_steel_sword">Kiếm thép</string>
+	<string name="resource_skins_outfit">Đồ da</string>
+	<string name="resource_leather_outfit">Đồ da thuộc</string>
+	<string name="resource_wool_outfit">Đồ len</string>
+	<string name="resource_linen_outfit">Đồ vải lanh</string>
+	<string name="resource_steel_pick">Cuốc chim thép</string>
+	<string name="resource_copper_pick">Cuốc chim đồng</string>
+	<string name="resource_bronze_pick">Cuốc chim đồng đỏ</string>
+	<string name="resource_iron_pick">Cuốc chim sắt</string>
+	<string name="resource_linen">Lanh</string>
+	<string name="resource_linen_cloth">Vải lanh</string>
+	<string name="resource_pulses">Đậu</string>	
+	<string name="resource_steel_sickle">Liềm thép</string>
+	<string name="resource_copper_sickle">Liềm đồng</string>
+	<string name="resource_bronze_sickle">Liềm đồng đỏ</string>
+	<string name="resource_iron_sickle">Liềm sắt</string>
+	<string name="resource_flint_sickle">Liềm đá</string>
+	<string name="resource_milk">Sữa</string>
+	<string name="resource_water">Nước</string>
+	<string name="resource_beer">Bia</string>
+	<string name="resource_wool">Len</string>
+	<string name="resource_wool_cloth">Vải len</string>
+	<string name="resource_megalith">Cự thạch</string>
+
+	<!-- Techs -->
+	<string name="tech_bone_tools">Công cụ xương</string>
+	<string name="tech_composite_tools">Công cụ tổng hợp</string>
+	<string name="tech_thatching">Lợp</string>
+	<string name="tech_masonry">Thợ nề</string>
+	<string name="tech_stone_polishing">Mài đá</string>
+	<string name="tech_copper_smelting">Nung đồng</string>
+	<string name="tech_bronze_smelting">Nung đồng đỏ</string>
+	<string name="tech_iron_smelting">Nung sắt</string>
+	<string name="tech_steelmaking">Chế tạo thép</string>
+	<string name="tech_underground_mining">Đào mỏ dưới lòng đất</string>
+	<string name="tech_pottery">Kỹ nghệ</string>
+	<string name="tech_well_digging">Đào giếng</string>
+	<string name="tech_food_drying">Phơi thực phẩm</string>
+	<string name="tech_grain_processing">Xử lí ngũ cốc</string>
+	<string name="tech_pulse_processing">Xử lí đậu</string>
+	<string name="tech_cereal_domestication">Ngũ cốc thuần chủng</string>
+	<string name="tech_pulse_domestication">Đậu thuần chủng</string>
+	<string name="tech_flax_domestication">Lanh thuần chủng</string>
+	<string name="tech_fruit_tree_domestication">Cây ăn quả thuần chủng</string>
+	<string name="tech_rye_domestication">Lúa mạch thuần chủng</string>
+	<string name="tech_dog_domestication">Thuần hóa chó</string>
+	<string name="tech_sheep_domestication">Thuần hóa cừu</string>
+	<string name="tech_goat_domestication">Thuần hóa dê</string>
+	<string name="tech_pig_domestication">Thuần hóa lợn</string>
+	<string name="tech_cattle_domestication">Thuần hóa bò</string>
+	<string name="tech_donkey_domestication">Thuần hóa lừa</string>
+	<string name="tech_horse_domestication">Thuần hóa ngựa</string>
+	<string name="tech_tanning">Lấy Tannin</string>
+	<string name="tech_weaving">Dệt</string>
+	<string name="tech_sledgemaking">Làm xe trượt</string>
+	<string name="tech_stilting">Đan</string>
+	<string name="tech_wheel">Bánh xe</string>
+	<string name="tech_spirituality">Tâm linh</string>
+	<string name="tech_megalithism">Xử lí cự thạch</string>
+	<string name="tech_brewing">Sản xuất bia</string>
+	<string name="tech_hydropower">Thủy lực</string>
+	<string name="tech_baking">Nướng</string>
+
+	<string name="tech_slingmaking">Làm ná</string>
+	<string name="tech_archery">Cung tên</string>
+	<string name="tech_fortifications">Pháo đài</string>
+	<string name="tech_swordmaking">Làm kiếm</string>
+	<string name="tech_composite_archery">Cung tổng hợp</string>
+	<string name="tech_reinforced_fortifications">Pháo đài kiên cố</string>
+
+	<!-- Transports -->
+	<string name="transport_sledge">Xe trượt</string>
+	<string name="transport_cart">	Xe kéo</string>
+	<string name="transport_rolling_megalith">Xe kéo Cự thạch</string>
+
+	<!-- Misc -->
+	<string name="bank">Bờ</string>
+
+	<!-- Trees -->
+	<string name="tree_young_broadleaf">Cây non</string>
+	<string name="tree_young_conifer">Cây non</string>
+
+	<string name="tree_oak">Sồi</string>
+	<string name="tree_pine">Thông</string>
+	<string name="tree_beech">Giẽ gai</string>
+	<string name="tree_birch">Bạch dương</string>
+	<string name="tree_spruce">Vân sam</string>
+	<string name="tree_fir">Bách</string>
+	<string name="tree_service">Cây Ăn quả</string>
+	<string name="tree_cherry">Anh đào</string>
+	<string name="tree_chestnut">Hạt dẻ</string>
+	<string name="tree_pear">Lê</string>
+
+	<string name="tree_raspberry">Mâm xôi đỏ</string>
+	<string name="tree_strawberry">Dâu tây</string>
+	<string name="tree_blueberry">Việt quất</string>
+	<string name="tree_blackberry">Mâm xôi đen</string>
+
+	<string name="tree_einkorn">Lúa mì Einkorn</string>
+	<string name="tree_emmer">Lúa mì Emmer</string>
+	<string name="tree_barley">Lúa mạch</string>
+	<string name="tree_rye">Lúa mạch đen</string>
+
+	<string name="tree_lentils">Đậu lăng</string>
+	<string name="tree_peas">Đậu Hà Lan</string>
+	<string name="tree_chickpeas">Đậu xanh</string>
+	<string name="tree_bitter_vetch">Đậu tằm đắng</string>
+
+	<string name="tree_flax">Lanh</string>
+
+</strings>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="scenario_the_shepherds">Người chăn cừu</string>
+	<string name="scenario_the_shepherds_subtitle">Khó</string>
+	<string name="scenario_the_shepherds_description">
+Phát triển đàn của riêng bạn:
+• Có 50 quần thể động vật
+• Xây 4 Chuồng
+	</string>
+	<string name="scenario_the_shepherds_context">
+Làng của bạn đã săn lùng những con vật gần đó trong nhiều năm, nhưng số lượng của chúng hiện đã giảm đi đáng kể, bây giờ bạn cần thuần hóa và bảo vệ đàn gia súc của chính mình.
+	</string>
+	
+	<string name="goal_the_shepherds_herd">Có 50 quần thể động vật</string>
+	<string name="goal_the_shepherds_stables">Xây 4 Chuồng</string>
+
+	<string name="the_shepherds_well_done">Làm tốt</string>	
+	<string name="the_shepherds_completed">Bây giờ bạn có thể tồn tại trong hoàn cảnh này.</string>		
+</strings>

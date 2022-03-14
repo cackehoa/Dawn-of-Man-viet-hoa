@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="bygone_tales">Câu chuyện cũ</string>
+
+	<string name="scenario_the_long_march">Cuộc hành quân dài</string>
+	<string name="scenario_the_long_march_subtitle">Có thể tiếp cận</string>
+	<string name="scenario_the_long_march_description">Hướng dẫn lùa đàn đến địa điểm di cư.</string>
+	<string name="scenario_the_long_march_context">Trong mùa đông băng giá kéo dài này, ngay cả Voi ma mút lông len cũng phải di cư để tìm kiếm thức ăn.</string>
+	
+	<string name="goal_the_long_march_location1">Đến ngã ba sông</string>	
+	<string name="goal_the_long_march_location2">Đến hồ lớn</string>	
+	<string name="goal_the_long_march_location3">Đến hồ nhỏ</string>	
+	<string name="goal_the_long_march_location4">Đến đồng bằng</string>		
+	<string name="goals_hint_the_long_march">Mỗi con voi ma mút đều phải tồn tại</string>		
+	
+	<string name="the_long_march_intro_title">Cuộc hành quân dài</string>	
+	<string name="the_long_march_intro">
+Trong trường hợp này, bạn kiểm soát một (b)đàn voi ma mút(/b).
+Bạn có thể chọn chúng, sau đó đưa ra các lệnh khác nhau:
+• (b)Nhấp chuột phải(/b) trên (b)địa hình(/b): đến đó (nhấp đúp chuột phải để chạy nhanh).
+• (b)Nhấp chuột phải(/b) trên (b)động vật(/b): tấn công.
+Cẩn thận với thú săn mồi.
+	</string>		
+	
+	<string name="the_long_march_well_done">Làm tốt!</string>	
+	<string name="the_long_march_completed">Đàn của bạn đã sống sót sau cuộc hành quân</string>		
+	
+	<string name="the_long_march_failed_title">Thất bại!</string>	
+	<string name="the_long_march_failed">Động vật trong đàn của bạn đã chết.</string>			
+</strings>

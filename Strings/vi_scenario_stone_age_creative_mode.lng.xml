@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="creative_mode">Chế độ sáng tạo</string>
+	
+	<string name="scenario_stone_age_creative_mode">Chế độ sáng tạo thời kỳ đồ đá</string>
+	<string name="scenario_stone_age_creative_mode_short_title">Thời kỳ đồ đá</string>
+	<string name="scenario_stone_age_creative_mode_subtitle">Dễ</string>
+	<string name="scenario_stone_age_creative_mode_description">
+Chế độ sáng tạo, bắt đầu từ thời kỳ đồ đá.
+• Nhiều tài nguyên
+• Không bị tấn công
+• Không có thảm họa
+• Mùa đông ngắn
+• Không có thành tích
+	</string>
+	<string name="scenario_stone_age_creative_mode_context"></string>
+
+</strings>

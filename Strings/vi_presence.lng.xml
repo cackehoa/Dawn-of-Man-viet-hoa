@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <string name="presence_default">Đang chơi trò chơi</string>
+  <string name="presence_tutorial">Đang chơi phần hướng dẫn</string>
+  <string name="presence_continental_dawn">Đang chơi "Lục địa bình minh"</string>
+  <string name="presence_the_northlands">Đang chơi "Vùng đất phía Bắc"</string>
+  <string name="presence_ancient_warriors">Đang chơi "Chiến binh cổ đại"</string>
+  <string name="presence_challenge">Đang chơi Thử thách</string>
+  <string name="presence_community_game">Đang chơi trò chơi cộng đồng</string>
+  <string name="presence_menus">Trong Menu</string>
+</strings>

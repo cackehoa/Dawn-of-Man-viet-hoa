@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<string name="achievement_completed">Hoàn thành thành tích: (1)</string>
+
+	<string name="achievement_launch_forth">Tiến tới</string>
+	<string name="achievement_launch_forth_description">Mở game</string>
+	
+	<string name="achievement_ancient_apprentice">Học sinh cổ đại</string>
+	<string name="achievement_ancient_apprentice_description">Hoàn thành hướng dẫn</string>
+
+	<string name="achievement_ancient_miner">Thợ mỏ cổ đại</string>
+	<string name="achievement_ancient_miner_description">Có ít nhất 3 mỏ vào thời điểm cho sẵn tại thời Đồ đá mới</string>
+
+	<string name="achievement_massive_hunter">Thợ săn vĩ đại</string>
+	<string name="achievement_massive_hunter_description">Săn một con voi Ma-mút</string>
+	
+	<string name="achievement_the_deer_hunter">Thợ săn hươu</string>
+	<string name="achievement_the_deer_hunter_description">Săn 100 con hươu trong một màn</string>
+
+	<string name="achievement_iron_man">Người sắt</string>
+	<string name="achievement_iron_man_description">Lên thời kì Đồ sắt</string>
+
+	<string name="achievement_steel_master">Bậc thầy thép</string>
+	<string name="achievement_steel_master_description">Chế tạo 10 Kiếm sắt trong một màn</string>
+	
+	<string name="achievement_hardened_survivor">Kẻ sinh tồn cứng rắn</string>
+	<string name="achievement_hardened_survivor_description">Hoàn thành 5 Mốc trong chế độ Khó</string>
+
+	<string name="achievement_completion">Hoàn thành</string>
+	<string name="achievement_completion_description">Hoàn thành tất cả các Mốc</string>	
+
+	<string name="achievement_ultimate_completion">Hoàn thành tối hậu</string>
+	<string name="achievement_ultimate_completion_description">Hoàn thành tất cả các Mốc ở chế độ Khó</string>
+
+	<string name="achievement_settlement1">Quần xã cổ xưa</string>
+	<string name="achievement_settlement1_description">Dân số đạt 50 người tại cảnh chơi Lục địa bình minh</string>
+
+	<string name="achievement_settlement2">Quần chúng phía Bắc</string>
+	<string name="achievement_settlement2_description">Dân số đạt 50 người tại cảnh chơi Vùng đất phía Bắc</string>
+
+	<string name="achievement_settlement3">Bộ tộc Chiến binh</string>
+	<string name="achievement_settlement3_description">Dân số đạt 50 người tại cảnh chơi Chiến binh cổ đại</string>
+
+	<string name="achievement_siege1">Tiến độ chậm</string>
+	<string name="achievement_siege1_description">Mở khóa Thời đại đồ đồng tại cảnh chơi Chiến binh cổ đại</string>
+
+	<string name="achievement_siege2">Tiến độ nhanh</string>
+	<string name="achievement_siege2_description">Mở khóa công nghệ Chế tạo thép tại cảnh chơi Chiến binh cổ đạ</string>
+
+	<string name="achievement_time">Tiến hóa nâng cao</string>
+	<string name="achievement_time_description">Mở khóa tất cả công nghệ trong vòng 5 tiếng chơi</string>
+
+	<string name="achievement_overpopulation">Bùng nổ dân số</string>
+	<string name="achievement_overpopulation_description">Có 200 người trong đế chế</string>
+
+	<string name="achievement_paleolithic_overpopulation">Bùng nổ dân số cổ đại</string>
+	<string name="achievement_paleolithic_overpopulation_description">Có 100 người trong thời kì Đá Cổ</string>
+
+
+</strings>

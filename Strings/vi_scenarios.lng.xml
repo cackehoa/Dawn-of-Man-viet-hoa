@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="scenario_the_steppes">Thảo nguyên</string>
+	<string name="scenario_the_steppes_subtitle">Khó</string>
+	<string name="scenario_neolithic_village">Làng thời đồ đá mới</string>
+	<string name="scenario_neolithic_village_subtitle">Bắt đầu từ đồ đá mới</string>
+	<string name="scenario_metal_age_village">Làng thời kỳ luyện kim</string>
+	<string name="scenario_metal_age_village_subtitle">Khảo nghiệm Thời kỳ luyện kim</string>
+	<string name="scenario_stress_test">Kiểm tra áp lực</string>
+	<string name="scenario_stress_test_subtitle">GPU/CPU kiểm tra áp lực</string>
+	<string name="scenario_model_test">Kiểm tra mô hình</string>
+	<string name="scenario_model_test_subtitle">Làm việc với các mô hình</string>
+	
+	<string name="goal_pending">Đang đợi</string>
+	<string name="goal_completed">Hoàn thành</string>	
+	
+	<string name="speed_hint">Sử dụng menu hoặc nhấn nút (timescale8_key) để tăng tốc lộ lên 8x.</string>	
+</strings>

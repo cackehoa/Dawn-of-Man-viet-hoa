@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="mountain_confluence">Dãy núi</string>
+	<string name="frozen_valley">Thung lũng băng giá</string>
+	<string name="north_river">Sông phía bắc</string>
+	<string name="twin_lakes">Hồ đôi</string>
+	<string name="chill_lake">Hồ băng</string>	
+	
+	<string name="scenario_the_northlands">Miền bắc</string>
+	<string name="scenario_the_northlands_subtitle">Thách thức</string>
+	<string name="scenario_the_northlands_description">Phát triển và mở rộng khu định cư của bạn trong môi trường khắc nghiệt.</string>
+	<string name="scenario_the_northlands_context">Ở các vùng phía bắc, mùa đông dài, mùa hè ngắn và tài nguyên thưa thớt khiến việc sinh tồn trở nên khó khăn hơn rất nhiều, và chỉ những con người kiên quyết nhất mới có thể phát triển.</string>
+
+	<string name="milestone_protein_hoarding">Tích trữ protein</string>
+	<string name="milestone_protein_hoarding_description">Tích lũy 5 đơn vị thịt khô và cá khô</string>
+
+	<string name="milestone_northern_survival">Sinh tồn phía Bắc</string>
+	<string name="milestone_northern_survival_description">Tồn tại 5 năm</string>
+	
+	<string name="milestone_winter_resistance">Chống cự mùa đông</string>
+	<string name="milestone_winter_resistance_description">Tích lũy 10 trang phục da</string>
+	
+	<string name="milestone_winter_hunt">Săn bắt mùa đông</string>
+	<string name="milestone_winter_hunt_description">Săn một con voi ma mút, một con tê giác lông mượt và một con gấu hang động</string>
+	
+	<string name="milestone_winter_domestication">Chinh phục mùa đông</string>
+	<string name="milestone_winter_domestication_description">Có 10 con cừu cùng lúc</string>
+	
+	<string name="milestone_extra_warmth">Ấm áp hơn</string>
+	<string name="milestone_extra_warmth_description">Mở khóa công nghệ nấu bia</string>
+
+	<string name="milestone_technocracy">Kỹ thuật công nghệ</string>
+	<string name="milestone_technocracy_description">Nghiên cứu tất cả công nghệ</string>	
+	
+	<string name="milestone_north_settlement">Định cư phía Bắc</string>
+	<string name="milestone_north_settlement_description">Xây 30 nhà tròn và đạt được dân số 150</string>			
+	
+</strings>

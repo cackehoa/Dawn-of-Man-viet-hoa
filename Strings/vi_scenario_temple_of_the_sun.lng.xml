@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="scenario_temple_of_the_sun">Đền mặt trời</string>
+	<string name="scenario_temple_of_the_sun_subtitle">Thử thách</string>
+	<string name="scenario_temple_of_the_sun_description">
+Xây dựng Đền thờ Mặt trời vĩ đại:
+• Xây Vòng tròn đá.
+• Xây 4 Đá lớn xung quanh nó.
+• Hoàn thành nó trong cuộc đời của Morkar
+	</string>
+	<string name="scenario_temple_of_the_sun_context">
+Shaman Morkar vĩ đại đã ra lệnh rằng một Cự thạch lớn sẽ được xây dựng để làm hài lòng Thần Mặt trời, vì nó ban phước cho chúng ta thực phẩm dồi dào trong những năm tới.
+	</string>
+	
+	<string name="goal_temple_of_the_sun_stone_circle">Xây Vòng tròn đá</string>	
+	<string name="goal_temple_of_the_sun_menhirs">Xây 4 Đá lớn xung quanh nó</string>
+	<string name="goals_hint_temple_of_the_sun">Morkar phải còn sống</string>
+	
+	<string name="temple_of_the_sun_well_done">Làm tốt</string>
+	<string name="temple_of_the_sun_completed">Đền thờ đã được xây.</string>
+
+	<string name="temple_of_the_sun_failed_title">Thất bại</string>
+	<string name="temple_of_the_sun_failed_description">Morkar đã chết.</string>
+</strings>

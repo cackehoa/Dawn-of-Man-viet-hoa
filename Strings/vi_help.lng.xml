@@ -1,0 +1,1310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string name="help">Trợ giúp</string>
+	<string name="plants">Trồng trọt</string>
+	<string name="topics">Chủ để</string>
+	<string name="general">Chung</string>
+	<string name="advanced_topics">Chủ đề nâng cao</string>
+	<string name="wild_animals">Thú hoang</string>
+	<string name="see_also">Xem thêm</string>
+	<string name="entities">Thực thể</string>
+	<string name="requirements">Yêu cầu</string>
+	<string name="loading_hints">Gợi ý</string>
+	<string name="help_upgrades">Nâng cấp</string>
+	<string name="defense">Phòng thủ</string>
+	<string name="help_stats">Trạng thái</string>
+	<string name="help_cost">Chi phí</string>
+	<string name="help_main">Chủ đề chính</string>
+	<string name="help_categories">Các mục</string>
+	<string name="help_recurrent_production">Sản xuất định kỳ</string>
+	<string name="help_related_resources">Các nguyên liệu liên quan</string>
+	<string name="help_production">Tài nguyên sản xuất</string>
+	<string name="help_byproducts">Tài nguyên sản xuất</string>
+	<string name="help_domestic_variant">Các biến thể nội bộ</string>
+	<string name="help_wild_variant">Các biến thể hoang dã</string>
+	<string name="help_domestication_tech">Công nghệ thuần hóa</string>
+	<string name="help_crafted_from">Chế tạo từ</string>
+	<string name="help_built_using">Xây dựng sử dụng</string>	
+	<string name="help_produced_from">Sản xuất từ</string>
+	<string name="help_created_entities">Sử dụng để chế tạo</string>
+	<string name="help_produced_resources">Tài nguyên sản xuất</string>
+	<string name="help_input_resources">Tài nguyên đã sử dụng</string>
+
+	<string name="hint_0">Nhặt (b)Quả mọng(/b) và (b)Trái cây(/b) trong mùa hè và lưu trữ thực phẩm lâu dài như (b)Thịt khô(/b), (b)Cá khô(/b), và (b)Ngũ cốc(/b) cho mùa đông.</string>
+	<string name="hint_1">(b)Tránh(/b) tấn công (b)con vật trưởng thành và khỏe mạnh(/b) khi săn bắn ở (b)đầu game(/b), vì chúng khó giết và có thể đáp trả.</string>
+	<string name="hint_2">Sử dụng (b)Khu vực làm việc(/b) kết hợp với (b)giới hạn tài nguyên(/b) để tự động hóa dân chúng của bạn càng nhiều càng tốt.</string>
+	<string name="hint_3">Đừng (b)bành trướng(/b) quá nhanh nếu bạn không có đủ (b)cơ sở hạ tầng(/b) để nuôi người dân.</string>
+	<string name="hint_4">(b)Vật nuôi(/b) cần được (b)cho ăn(/b) và (b)cho uống(/b) vào (b)Mùa đông(/b). Tránh có quá nhiều con vật nếu bạn không đủ sức nuôi.</string>
+	<string name="hint_5">Vào (b)Thời kỳ đồ đá cũ(/b) xã hội chủ yếu là săn bắn và hái lượm, (b)các cuộc xung đột(/b) khá (b)hiếm hoi(/b), vì số người tồn tại còn ít. Kể từ (b)Thời kỳ đồ đá mới(/b) trở đi, bạn cần phải sẵn sàng cho các (b)cuộc chiến(/b).</string>
+	<string name="hint_6">Rất (b)khó khăn(/b) để đạt (b)lượng dân số lớn(/b) trong (b)những thời kỳ đầu(/b). Bạn chỉ duy trì được dân số ổn định khi đã biết trồng trọt và chăn nuôi.</string>
+	<string name="hint_7">Luôn chắc chắn rằng khi (b)Mùa đông(/b) tới bạn luôn có đủ (b)thức ăn dự trữ (/b) trong kho, nếu không đói kém sẽ là một vấn đề nghiêm trọng.</string>
+	<string name="hint_8">Đưa dân chúng đến sông, hồ hoặc giếng để (b)thu thập và dự trữ nước(/b) hiệu quả hơn nhiều so với việc để dân chúng của bạn đi uống nước ở xa làng của họ.</string>
+	<string name="hint_9">Bạn có thể (b)tùy chỉnh(/b) các bảng trở góc trên màn hình bằng cách nhấn nút (b)+(/b) đặt bên cạnh.</string>	
+	<string name="hint_10">(b)Xoay máy quay(/b) xung quanh một điểm bằng cách nhấn tổ hợp phím (b)thu nhỏ(/b) và (b)xoay(/b) cùng lúc.</string>
+	<string name="hint_11">Ở (b)độ khó thường(/b), công nghệ của (b)Kẻ cướp(/b) sẽ (b)phù hợp(/b) với thời đại của bạn, nên hãy cẩn thận khi lên đời quá nhanh.</string>
+	<string name="hint_12">Ở (b)độ khó cao(/b), Kẻ cướp sẽ tự (b)phát triển công nghệ(/b) ở (b)tốc độ riêng(/b), nên bạn đừng tốn quá nhiều thời gian để lên đời.</string>
+	<string name="hint_13">Bạn có thể yêu cầu người dân (b)nghỉ ngơi(/b) hoặc (b)trú ẩn(/b) bằng cách chọn họ và (b)chuột phải(/b) vào (b)một công trình(/b).</string>
+	<string name="hint_14">Khi người dân của bạn (b)bị thương(/b) có khả năng họ sẽ bị (b)nhiễm trùng(/b), điều này có thể dẫn tới tử vong.</string>
+	<string name="hint_15">Bạn có thể (b)ra lệnh(/b) cho người dân của bạn bằng cách (b)nhấn chọn(/b) họ và (b)chuột phải(/b) vào một địa hình hoặc vật thể.</string>
+	<string name="hint_16">Bạn có thể (b)ra lệnh(/b) cho người dân của bạn (b)chạy nhanh tới(/b) một địa điểm bằng cách chọn họ và (b)nhấn đúp chuột(/b) vào địa hình.</string>
+	<string name="hint_17">Bạn có thể (b)lưu nhanh(/b) bằng cách nhấn (b)F9(/b).</string>
+	<string name="hint_18">(b)Nhấn đúp chuột(/b) vào một cây trồng, thú, người hay công trình (b)để chọn(/b) những vật thể tương tự gần đó.</string>
+	<string name="hint_19">Bạn có thể nhấn nút (camera_center_town_key) để chuyển máy quay về làng của bạn.</string>
+	<string name="hint_20">Bạn có thể giữ nút (hunter_selection_key) và (fighter_selection_key) khi kéo chuột để chọn những người có công cụ (b)săn bắn(/b) hoặc (b)chiến đấu(/b).</string>
+	<string name="hint_21">Bạn có thể sử dụng (b)Tầm nhìn nguyên thủy(/b) để đánh dấu (b)Khu vực làm việc(/b).</string>
+
+
+	<string name="help_main_title">Dawn of Man</string>
+	<string name="help_main_description">
+Trong (b)Dawn of Man(/b) bạn điều hành một nhóm người cổ đại cố gắng sinh tồn.
+Bạn sẽ cần (b)săn bắn(/b), (b)hái lượm(/b), (b)chế tạo công cụ(/b), (b)chiến đấu(/b), khám phá (b)công nghệ mới(/b) và đối mặt mới những thử thách của tự nhiên.
+</string>
+
+  <!-- === Topics === -->
+
+	<string name="help_hunting_title">Săn bắn</string>
+	<string name="help_hunting_description">
+Sử dụng công cụ nhất định, người của bạn có thể săn thú để kiếm (b)thức ăn(/b) và (b)tài nguyên(/b).
+Để bắt đầu đi săn, chọn một con thú trong một khu vực rồi nhấn nút (b)Săn bắn(/b). Tùy thuộc vào độ khó của con mồi, và số công cụ có sẵn, một số người sẽ đuổi theo con thú đó.
+Các con thú sẽ phản ứng khác nhau: một số sẽ cố (b)trốn thoát(/b), một số sẽ cố bảo vệ con của chúng, một số lại muốn (b)đáp trả(/b).
+Bạn có thể điều khiển việc săn bắn một cách cụ thể hơn bằng cách chọn một hoặc nhiều người rồi chuột phải vào con thú.
+	</string>	
+	
+	<string name="help_farming_title">Trồng trọt</string>
+	<string name="help_farming_description">
+Trồng trọt cho phép bạn tự động hóa nguồn (b)thức ăn(/b), và duy trì nhiều người hơn trong khu vực của bạn.
+Bạn có thể trồng nhiều loại (b)hạt giống(/b), rồi thu hoạch và xử lý chúng để cho dân chúng của bạn ăn. Hạt giống thường được trồng vào Mùa Đông hoặc Mùa Xuân và thu hoạch vào Mùa Hạ hoặc Mùa Thu.
+Việc trồng (b)nhiều(/b) loại hạt giống khác nhau rất quan trọng vì dịch bệnh có thể quét sạch một loại hạt giống nhất định.
+Để tối ưu hóa việc thu hoạch, hãy chắc chắn bạn luôn có đủ (b)Liềm(/b).
+Trong tất cả các loại hạt giống, (b)Ngũ cốc(/b) là quan trọng nhất, chúng không chỉ là nguồn (b)Thực phẩm(/b) mà cũng là nguồn (b)Rơm rạ(/b), thứ được dùng nhiều trong cả xây dựng và nuôi thú.
+	</string>
+			
+	<string name="help_defense_title">Phòng thủ</string>
+	<string name="help_defense_description">
+Một trong những yếu tố chủ chốt là bảo vệ người dân của bạn khỏi (b)Thú dữ(/b) và (b)Kẻ cướp(/b).
+Vào (b)Thời kỳ đồ đá(/b), mối đe dọa chính là thú dữ và các nhóm kẻ cướp nhỏ lẻ. Hãy đảm bảo bạn có đủ vũ khí để bảo vệ làng của bạn.
+Trong (b)Thời kỳ luyện kim(/b) vấn đề sẽ nghiêm trọng hơn nhiều, các nhóm kẻ cướp lớn sẽ muốn phá hủy làng của bạn. Bạn nên cân nhắc xây dựng (b)Rào chắn(/b) và (b)Công trình bảo vệ(/b).
+Bạn có thể bật chế độ (b)Cảnh báo(/b) bất kỳ lúc nào ở bảng điều khiển Phòng thủ, khi bật, người dân của bạn sẽ chạy về làng, lấy vũ khí tốt nhất có thể và bảo vệ làng.
+	</string>	
+	
+	<string name="help_human_status_title">Trạng thái con người</string>
+	<string name="help_human_status_description">
+Con người có thanh đo (b)Sức khỏe(/b), (b)Dinh dưỡng(/b), (b)Lượng nước(/b), (b)Nghỉ ngơi(/b), (b)Nhiệt độ(/b), (b)Độ bền(/b) và (b)Tinh thần(/b) phản ánh trạng thái hiện tại của họ.
+Khi một thanh đo trạng thái vào mức thấp, một (b)bảng cảnh báo(/b) sẽ hiện lên đầu người đó, thể hiện vấn đề của họ.
+Trạng thái thấp sẽ khiến người của bạn làm việc kém hiệu quả, và cuối cùng sẽ khiến họ chết. Bạn cần điều khiển người dân của bạn để chắc chắn rằng họ được đáp ứng đầy đủ nhu cầu.
+	</string>	
+	
+	<string name="help_health_title">Sức khỏe</string>	
+	<string name="help_health_description">
+Đơn vị này đo sức khỏe vật lý của một người. Nếu nó xuống quá thấp, người đó sẽ chết.
+(b)Sức khỏe(/b) sẽ tự hồi phục trong trạng thái bình thường, trừ khi trạng thái khác cũng thấp hoặc người đó bị ảnh hưởng bởi một (b)tình trạng(/b).
+    </string>	
+	
+	<string name="help_nutrition_title">Dinh dưỡng</string>	
+	<string name="help_nutrition_description">
+Đơn vị này đo độ đói của một người, nếu bị đói (b)Sức khỏe(/b) sẽ bắt đầu giảm, và người đó sẽ chết.
+(b)Dinh dưỡng(/b) có thể được phục hồi bằng cách ăn thức ăn, nguồn thực phẩm có thể đến tự nhiều nơi khác nhau.
+    </string>		
+	
+	<string name="help_hydration_title">Lượng nước</string>	
+	<string name="help_hydration_description">
+Đơn vị này đo độ khát của một người. Nếu bị khát, (b)Sức khỏe(/b) sẽ bắt đầu giảm, và người đó sẽ chết.
+(b)Lượng nước(/b) có thể được hồi phục bằng cách uống nước ở (b)sông(/b), (b)hồ(/b), (b)giếng(/b), hay (b)nước dự trữ(/b).
+    </string>	
+	
+	<string name="help_rest_title">Nghỉ ngơi</string>	
+	<string name="help_rest_description">
+Đơn vị này đo độ mệt mỏi của một người. Nếu bị mệt, người đó làm việc sẽ kém hiệu quả.
+(b)Nghỉ ngơi(/b) có thể hồi phục bằng cách ngủ trong (b)Lều(/b), (b)Chòi(/b) hoặc (b)Nhà tròn(/b).
+    </string>
+	
+	<string name="help_temperature_title">Nhiệt độ</string>	
+	<string name="help_temperature_description">
+Đơn vị này đo nhiệt độ cơ thể của một người. Nếu bị lạnh, (b)Sức khỏe(/b) sẽ bắt đầu giảm, và người đó sẽ chết.
+Để giữ ấm cơ thể, con người có thể mặc quần áo ấm hoặc trú bên trong (b)Lều(/b), (b)Chòi(/b) hoặc (b)Nhà tròn(/b).
+    </string>		
+	
+	<string name="help_stamina_title">Độ bền</string>	
+	<string name="help_stamina_description">
+Đơn vị này đo độ bền của một người. Nếu bị mệt, người đó sẽ không thể chạy. Đây là một yếu tố quan trọng trong chiến đấu và săn bắn.
+(b)Độ bền(/b) sẽ tự động phục hồi khi nghỉ ngơi.
+    </string>		
+	
+	<string name="help_morale_title">Tinh thần</string>	
+	<string name="help_morale_description">
+Đơn vị này đo sức khỏe tinh thần của một người. Nếu tinh thần xuống thấp, họ sẽ làm việc (b)kém hiệu quả(/b). Việc giữ tinh thần luôn ở mức cao là vô cùng quan trọng trong việc điều hành đế chế của bạn.
+Tinh thần có thể bị hạ thấp bởi (b)đói khát(/b), (b)chết chóc(/b), hoặc làm việc (b)quá căng thẳng(/b), ví dụ như trồng trọt hoặc vật chuyển vật nặng.
+Tinh thần được hồi phục bằng cách đến cầu nguyện ở một số công trình như (b)Cột xương(/b), (b)Vật thờ(/b), (b)Đá lớn(/b), (b)Mộ đá(/b) hoặc (b)Vòng tròn đá(/b). Công trình càng hiện đại càng hồi phục tinh thần nhanh. 
+Một người phải đợi một khoảng thời gian trước khi hồi phục tinh thần ở công trình tương tự, nên bạn cần chú ý xây dựng nhiều loại công trình hồi phục tinh thần khác nhau.
+Về sau bạn có thể sản xuất (b)Bia(/b), Bia cũng giúp tăng tinh thần, nhưng cần làm từ ngũ cốc. 
+	</string>			
+	
+  <string name="help_knowledge_title">Thông thái</string>
+  <string name="help_knowledge_description">
+Bạn có thể nhận được (b)Điểm thông thái(/b) bằng cách hoàn thành nhiều loại nhiệm vụ như:
+• Đạt số lượng dân số lớn hơn
+• Xây dựng các loại công trình khác nhau
+• Săn các loại thú khác nhau
+• Thu thấp các loại tài nguyên khác nhau
+• Giết Kẻ cướp
+• Mở khóa các Mốc
+• Sống sót qua nhiều năm
+Bạn có thể sử dụng những điểm này để mở khóa (b)Công nghệ mới(/b), điều này sẽ giúp bạn phát triển đế chế và duy trì được nhiều người hơn.
+  </string>
+	
+	<string name="help_crafting_title">Chế tạo</string>
+  <string name="help_crafting_description">
+Người của bạn có thể chế tạo nhiều loại công cụ trong các loại công trình khác nhau.
+Để chế tạo một loại công cụ, chọn (b)một công trình chế tạo(/b) và bấm vào công thức. Nếu có đủ nguyên liệu, một người sẽ vào để chế tạo.
+Bạn cũng có thể chuột phải vào công thức để bật/tắt (b)sản xuất liên tục(/b). Khi bật, người của bạn sẽ tự động sản xuất cho tới khi đạt đến (b)giới hạn tài nguyên(/b).
+  </string>
+	
+	<string name="help_expanding_title">Mở rộng</string>
+  <string name="help_expanding_description">
+Nếu như (b)điểm phúc lợi(/b) đủ cao và bạn có đủ chỗ chứa thêm người, người mới sẽ đến và gia nhập đế chế, và phụ nữ cũng sẽ (b)sinh con(/b).
+You can increase your housing capacity by building (b)Lều(/b), (b)Chòi(/b) hoặc (b)Nhà tròn(/b).
+(b)Phúc lợi(/b) và (b)Uy tín(/b) ảnh hưởng đến tần suất dân nhập cư và tỉ lệ sinh.
+Khả năng sinh sản cũng phụ thuộc vào (b)Điểm phúc lợi(/b).
+  </string>	
+  
+  <string name="help_resource_limits_title">Giới hạn tài nguyên</string>
+	<string name="help_resource_limits_description">
+Giới hạn tài nguyên là một cách rất hiệu quả để tự động hóa công việc của bạn.
+Bạn có thể đặt (b)giới hạn tài nguyên(/b), rồi đưa một công thức vào sản xuất liên tục hoặc đặt một khu vực làm việc: người của bạn sẽ tiếp tục thu thập hoặc sản xuất cho tới khi đạt tới giới hạn đó. 
+Khi tài nguyên được sử dụng và xuống thấp hơn giới hạn, người của bạn sẽ tiếp tục sản xuất và thu thập cho tới khi đạt tới giới hạn đó.
+Bạn có thể đặt bất cứ giới hạn nào vào 3 kiểu sau:
+(b)Vô hạn(/b). Không có giới hạn, miễn là còn nguyên liệu, người dân của bạn sẽ còn sản xuất và thu thập.
+(b)Số lượng nhất định(/b). Đặt giới hạn vào một số lượng nhất định. Người của bạn sẽ dựng lại khi thu thập hoặc sản xuất đủ số đó.
+(b)Phần trăm số dân(/b). Đặt giới hạn tùy thuộc theo số dân. Cài đặt giới hạn tùy thuộc theo số dân sẽ có ích trong việc sản xuất đủ và tránh phải điều chỉnh liên tục khi dân số thay đổi.
+Lưu ý rằng giới hạn chỉ ảnh hưởng tới khu vực làm việc hoặc tự động chế tạo, nếu bạn yêu cầu một việc cụ thể, thì giới hạn này bị bỏ qua.
+	</string>
+	
+  <string name="help_resource_decay_title">Hư hỏng tài nguyên</string>
+  <string name="help_resource_decay_description">
+Hầu hết các loại công cụ và nguyên liệu sẽ (b)Hư hỏng(/b) qua thời gian, sự Hư hỏng cũng ảnh hưởng bởi số lần công cụ được sử dụng.
+Những nguyên liệu để trong công trình lưu trữ sẽ Hư hỏng chậm hơn. Điều này cực kỳ quan trọng với thức ăn, vì chúng sẽ quyết định bạn có một mùa đông ổn định hay chết đói hàng loạt.
+Một số thức ăn (b)Hư hỏng rất nhanh(/b) như: Trái cây, Quả mọng, Cá sống và Thịt sống.
+Một số thức ăn (b)để được lâu hơn(/b) như: Ngũ cốc, Thịt khô và Cá khô.
+Người của bạn sẽ ăn thức ăn Hư hỏng nhanh để dự trữ thức ăn tồn tại được lâu.
+	</string>	
+	
+  <string name="help_workload_title">Tải trọng công việc</string>
+  <string name="help_workload_description">
+(b)Tải trọng công việc(/b) trong đế chế của bạn là tỉ lệ số người đang có so với số công việc phải làm.
+Nếu bạn bắt người của bạn làm quá nhiều việc cùng một lúc, họ sẽ bị quá sức và không biết sắp xếp công việc của mình.
+Việc của bạn là phải điều hành sao cho số việc bạn yêu cầu phù hợp với số người bạn đang có.
+Bạn có thể sử dụng (b)Nhiệm vụ(/b) và (b)Bảng hành động(/b) để xem người dân của bạn đang làm gì và có bao nhiêu người có thể làm việc.
+	</string>
+	
+  <string name="help_human_roles_title">Vai trò của con người</string>
+  <string name="help_human_roles_description">
+Tùy thuộc vào độ tuổi, người của bạn có thể làm một số công việc khác nhau:
+(b)Trẻ em(/b). Chúng có thể mang những đồ nhẹ nhàng và làm một số việc cơ bản mà không cần sử dụng công cụ.
+(b)Người trưởng thành(/b). Họ là nhóm người làm việc hiệu quả nhất, mang được nhiều tài nguyên và có thể làm bất kỳ nhiệm vụ nào.
+(b)Người già(/b). Họ có thể làm việc giống người trưởng thành, nhưng sức khỏe kém hơn và mang được ít tài nguyên hơn.
+	</string>
+  
+  <string name="help_work_area_title">Khu vực làm việc</string>
+  <string name="help_work_area_description">
+Cài đặt (b)khu vực làm việc(/b) cho phép bạn tự động hóa nhiều việc bao gồm (b)thu lượm(/b) và (b)đào mỏ(/b).
+Sau khi bạn chọn một khu vực với tài nguyên có sẵn, người của bạn sẽ tự động thu thập cho tới khi đạt tới (b)giới hạn tài nguyên(/b).
+Mặc định chỉ có một người làm việc ở một khu vực, nhưng bạn có thể điều chỉnh.
+  </string>
+	
+  <string name="help_foods_title">Thực phẩm</string>
+  <string name="help_foods_description">
+Có nhiều loại (b)thực phẩm(/b) mà người của bạn có thể hấp thụ được. Việc hiểu sự khác biệt giữa chúng rất quan trọng.
+(b)Cá sống(/b). Có quanh năm, tất cả các sông, hồ đều có một lượng cá nhất định, khi bạn đánh bắt hết thì bạn cần chờ cho lượng cá hồi phục. Bạn có thể sử dụng (b)Giá phơi thực phẩm(/b) để biến (b)Cá sống(/b) thành (b)Cá khô(/b), Cá khô sẽ tồn tại lâu hơn nhiều.
+(b)Thịt sống(/b). Bạn có thể săn thú vật lấy thịt quanh năm, nhưng mùa đông thì ít thú hơn. Bạn có thể sử dụng (b)Giá phơi thực phẩm(/b) để biến (b)Thịt sống(/b) thành (b)Thịt khô(/b), Thịt khô sẽ tồn tại lâu hơn nhiều.
+(b)Quả mọng(/b), (b)Trái cây(/b) và (b)Hạt(/b). Hầu như chỉ có vào mùa hạ, đôi khi vào mùa thu. Chúng không tồn tại lâu, nên bạn tốt hơn nên ăn chúng theo mùa để tiết kiệm thức ăn có thể lưu trữ như Cá khô, Thịt khô hay Ngũ cốc.
+(b)Đậu(/b). Thu hoạch vào mùa hạ, yêu cầu công cụ và công nghệ thích hợp để thu hoạch và xử lý. Chúng tồn tại được một khoảng thời gian không lâu cũng không chóng.
+(b)Ngũ cốc(/b). Tồn tại cực lâu, nhưng cần có công nghệ thích hợp để xử lý: Đầu tiên chúng cần được chuyển thành (b)Bột mỳ(/b), rồi thành (b)Bánh mỳ(/b). Điều này khiến việc tạo nên chúng khá căng thẳng.
+Người dân sẽ ưu tiên ăn thực phẩm dễ hỏng trước.
+	</string>
+	
+  <string name="help_welfare_title">Phúc lợi</string>
+  <string name="help_welfare_description">
+Thước đo cho thấy đế chế của bạn đang thế nào.
+Phụ thuộc vào (b)trạng thái(/b), (b)quần áo(/b) và (b)nguồn thức ăn(/b).
+Nếu điểm Phúc lợi cao (b)dân nhập cư(/b) sẽ gia nhập vào đế chế của bạn, điểm này càng cao thì tần suất dân nhập cư càng nhiều.
+Phúc lợi cũng ảnh hưởng tới (b)tỉ lệ sinh(/b).
+	</string>	
+	
+  <string name="help_prestige_title">Uy tín</string>
+  <string name="help_prestige_description">
+Thước đo cho thấy đế chế của bạn nổi tiếng thế nào.
+Phụ thuộc vào (b)dân số(/b), (b)công trình(/b) và (b)công nghệ(/b).
+Nếu điểm Uy tín cao (b)dân nhập cư(/b) và (b)thương gia(/b) sẽ tới thường xuyên hơn.
+Một cách hiệu quả để tăng điểm (b)Uy tín(/b) là xây dựng nhiều (b)Công trình cự thạch(/b).
+	</string>		
+
+	<!-- Conditions here refers to diseases hoặc infections-->
+  <string name="help_conditions_title">Tình trạng</string>
+  <string name="help_conditions_description">
+Con người có thể bị ảnh hưởng bởi các tình trạng như (b)bệnh tật(/b) hoặc (b)nhiễm trùng(/b).
+Nguyên nhân gây ra tình trạng này là (b)Đói kém(/b) lặp lại, hoặc (b)Chấn thương duy trì(/b).
+Khi một người gặp phải một tình trạng bất lợi, sức khỏe của họ sẽ bị thuyên giảm theo thời gian. Nếu sức khỏe bằng 0, họ sẽ chết.
+Khả năng sống sót được tạo ngẫu nhiên và chủ yếu phụ thuộc vào độ khỏe mạnh của người đó.
+	</string>
+	
+	<string name="help_controls_title">Điều khiến</string>	
+	<string name="help_controls_description">
+(b)MÁY QUAY(/b)
+
+Di chuyển: (camera_move_keys)
+Xoay: (camera_rotate_keys)
+Phóng to: (b)Con lăn chuột(/b)
+
+
+(b)CHỌN(/b)
+
+Chọn một vật thể: (b)Chuột trái(/b)
+Chọn các vật thể tương tự gần đó: (b)Nháy đúp chuột trái(/b)
+Thêm/Bỏ/từ lựa chọn sẵn có:(b) Shift + Chuột trái(/b)
+
+Chọn nhiều vật thể: (b)Kéo chuột trái(/b)
+Chỉ chọn thợ săn: (b)Kéo chuột trái(/b) khi giữ nút (hunter_selection_key)
+Chỉ chọn chiến binh: (b)Kéo chuột trái(/b) khi giữ nút (fighter_selection_key)
+
+Ra lệnh: (b)Chuột phải(/b)
+Ra lệnh phải chạy: (b)Nháy đúp chuột phải(/b)
+
+
+(b)QUẢN LÝ(/b)
+
+Lưu nhanh: (b)F9(/b)
+Màn hình chính: (b)F10(/b)
+
+
+(b)GÁN PHÍM(/b)
+
+	</string>
+	
+	<string name="help_customizable_panels_title">Bảng điều khiển tùy chỉnh</string>	
+	<string name="help_customizable_panels_description">
+Bằng cách bấm nút (b)+(/b) ở phần trên màn hình, bạn có thể (b)tùy chỉnh các bảng điều khiển(/b).
+Bạn có thể cho giao diện hiển thị (b)các thông tin liên quan nhất(/b) tùy thuộc vào tình trạng hiện tại của bạn.
+	</string>
+	
+	<string name="help_transport_title">Vận chuyển</string>	
+	<string name="help_transport_description">
+(b)Phương tiện vận chuyển(/b) sẽ tăng độ hiệu quả của công việc lên rất nhiều.
+Một số tài nguyên nặng như (b)Gỗ(/b), (b)Đá(/b), (b)Quặng đồng(/b), (b)Quặng thiếc(/b) hoặc (b)Quặng sắt(/b) rất khó để di chuyển.
+Chỉ người trưởng thành mới chuyển được những thứ này, nhưng rất chậm và sẽ làm giảm tinh thần của họ.
+(b)Xe trượt(/b) và (b)Xe kéo(/b) có thể giải quyết vấn đề này, chúng cho phép bạn di chuyển nhiều (b)tài nguyên nặng(/b) cùng lúc và hiệu quả hơn nhiều.
+	</string>
+	
+	<string name="help_fuel_title">Nguyên liệu</string>	
+	<string name="help_fuel_description">
+Để có thể (b)nấu thức ăn(/b) và giữ ấm bạn cần tiếp nhiên liệu cho (b)Bếp lửa(/b), (b)Chòi(/b), (b)Nhà tròn(/b) và (b)Lò(/b).
+Bạn có thể sử dụng (b)Que củi(/b) hoặc (b)Gỗ(/b) cho mục đích này. Người của bạn sẽ tự động tiếp nhiên liệu cho tất cả các công trình trừ khi bạn dừng việc này ở từng công trình một.
+	</string>
+	
+  <!-- === Main categories === -->
+  
+	<string name="help_structures_title">Công trình</string>
+	<string name="help_structures_description">
+Bạn có thể xây dựng nhiều công trình trong đế chế của bạn. Mặc định chỉ có một vài công trình khả dụng, nhưng về sau bạn sẽ mở khóa được nhiều loại nữa.</string>
+	
+	<string name="help_resources_title">Tài nguyên</string>
+	<string name="help_resources_description">
+Bạn cần phải lưu trữ và sử dụng nhiều loại tài nguyên để đế chế của bạn hoạt động được.
+Hầu hết các loại tài nguyên sẽ tự Hư hỏng, nên bạn cần liên tục sản xuất thêm.
+	</string>
+	
+	<string name="help_techs_title">Công nghệ</string>
+	<string name="help_techs_description">
+Công nghệ cho phép bạn sản xuất (b)nhiều tài nguyên hơn(/b), xây dựng (b)công trình mới(/b), và (b)phát triển(/b) qua các thời đại.
+Để mở khóa các công nghệ mới, bạn cần sử dụng Điểm thông thái ở bảng điều khiển Công nghệ.
+Bạn nhận được (b)điểm thông thái(/b) khi làm các việc như săn thú, xây dựng công trình hay đạt đến lượng số lớn hơn.
+Bạn chỉ có thể mở khóa được một công nghệ nếu bạn đã mở khóa (b)công nghệ tiên quyết(/b) và (b)thời kỳ(/b) mà nó thuộc về.
+Để mở khóa một thời kỳ, bạn cần mở khóa công nghệ của thời kỳ đó, điều này yêu cầu gấp đôi điểm thông thái.
+    </string>
+	
+	<string name="help_animals_title">Động vật</string>
+	<string name="help_animals_description">	
+Động vật là nguồn của nhiều loại tài nguyên như (b)Thịt sống(/b), (b)Xương(/b), hay (b)Da thô(/b). 
+Vào (b)mùa đông(/b) hầu hết các loại động vật sẽ di cư và ngủ đông, nên bạn sẽ thấy ít hơn.
+Khi bạn đã mở khóa được công nghệ nuôi nhốt nhất định, bạn có thể bắt động vật và nuôi chúng.
+	</string>
+
+	<string name="help_transports_title">Vận chuyển</string>
+	<string name="help_transports_description">
+Phương tiện vận chuyển cho phép người của bạn (b)di chuyển tài nguyên(/b) nhanh hơn nhiều so với thông thường. Phương tiện vận chuyển đặc biệt dược dùng để di chuyển (b)Cự thạch(/b).
+	</string>
+	
+	
+  <!-- === STRUCTURES: categories === -->
+  
+	<string name="help_buildable_category_residence_description">Công trình cung cấp chỗ trú cho người và động vật.</string>
+	<string name="help_buildable_category_storage_description">Công trình giúp lưu trữ tài nguyên.</string>
+	<string name="help_buildable_category_production_description">Công trình dùng để sản xuất.</string>
+	<string name="help_buildable_category_defensive_description">Công trình dùng để bảo vệ dân chúng khỏi (b)kẻ cướp(/b) hoặc (b)thú dữ(/b).</string>
+	<string name="help_buildable_category_metallurgy_description">Công trình khai thác và chế biến kim loại.</string>
+	<string name="help_buildable_category_spiritual_description">
+Công trình giúp cải thiện (b)Tinh thần(/b).
+Khi (b)Tinh thần(/b) xuống thấp, người của bạn sẽ đến một công trình thờ cúng để hồi phục. Lưu ý rằng một người không thể sử dụng một loại công trình thờ cúng quá nhiều lần, nên bạn cần xây nhiều loại khác nhau.
+	</string>
+	<string name="help_buildable_category_transport_description">Công trình cải thiện hiệu quả vận chuyển.</string>
+	
+  <!-- === Structures === -->
+
+	<!-- === Residence === -->
+	
+	<string name="tent_short_description">Lều</string>
+	<string name="tent_help_description">
+Công trình trú ẩn cơ bản nhất, con người có thể (b)nghỉ ngơi(/b) và (b)trú ẩn(/b) trong mùa lạnh.
+Nó xuống cấp nhanh và cần được bảo trì định kỳ.
+Nó có thể xây dựng từ thời kỳ (b)Đồ đá cũ(/b).
+	</string>
+	
+	<string name="hut_short_description">Chòi với mái rơm</string>
+	<string name="hut_help_description">
+Một công trình làm từ (b)Bùn(/b) với mái bằng (b)Rơm(/b), con người có thể (b)nghỉ ngơi(/b), (b)trú ẩn(/b) và (b)nấu ăn(/b) ở đây.
+Nó bền hơn (b)Lều(/b) và chứa được nhiều người hơn.
+Nó yêu cầu công nghệ (b)Lợp(/b) để có thể xây dựng.
+	</string> 
+
+	<string name="roundhouse_short_description">Nhà đá tròn</string>
+	<string name="roundhouse_help_description">
+Công trình xây dựng bằng (b)Đá(/b) với mái bằng (b)Rơm rạ(/b), mọi người có thể (b)nghỉ ngơi(/b), (b)trú ẩn(/b) và (b)nấu nướng(/b) trong nó.
+Nó bên hơn (b)Chòi(/b) và có thể chứa nhiều người hơn.
+Nó yêu cầu công nghệ (b)Thợ nề(/b) để xây.
+	</string>
+	
+	<string name="stables_short_description">Nơi nuôi nhốt gia súc</string>
+	<string name="stables_help_description">
+Nơi để (b)vật nuôi(/b) đến (b)nơi trú ẩn(/b) vào mùa đông và được cho ăn và nước uống.
+Nó cần được bảo dưỡng định kỳ.
+	</string>
+	
+	<!-- === Storage === -->
+	
+	<string name="storage_tent_short_description">Công trình lưu trữ cơ bản</string>
+	<string name="storage_tent_help_description">
+Lều lớn được xây dựng để cất giữ và (b)bảo tồn tài nguyên(/b) lâu hơn.
+Nó hỏng nhanh và cần bảo dưỡng định kỳ.
+Nó có thể xây dựng từ thời kỳ (b)Đồ đá cũ(/b).
+	</string>
+
+	<string name="wood_pile_short_description">Nơi chứa Que củi và Khúc gỗ</string>
+	<string name="wood_pile_help_description">
+Nơi để chứa (b)Que củi(/b) hoặc (b)Khúc gỗ(/b), thay vì sử dụng nơi cư trú hoặc các cấu trúc lưu trữ khác lãng phí không gian có giá trị.
+	</string>
+	
+	<string name="haystack_short_description">Nơi chứa Rơm rạ</string>
+	<string name="haystack_help_description">
+Nơi để chứa (b)Rơm rạ(/b), thay vì sử dụng nơi cư trú hoặc các cấu trúc lưu trữ khác lãng phí không gian có giá trị.
+	</string>
+	
+	<string name="storage_hut_short_description">Lều để lưu trữ và bảo tồn tài nguyên</string>
+	<string name="storage_hut_help_description">
+Công trình lớn được tạo ra từ (b)Bùn(/b) với mái bằng (b)Rơm rạ(/b), nơi tài nguyên có thể được chứa và bảo quản lâu hơn.
+Nó bền hơn (b)Lều lưu trữ(/b) và có thể chứa nhiều tài nguyên hơn trong thời gian dài hơn.
+Yêu cầu công nghệ (b)Lợp(/b) để xây.
+	</string>
+	
+	<string name="granary_short_description">Cấu trúc bảo quản thực phẩm</string>
+	<string name="granary_help_description">
+Chòi nâng cao, được xây dựng để giữ thực phẩm khô ráo và bảo quản (b)càng lâu càng tốt(/b).  
+Kho thóc có độ bền hợp lý, nhưng chúng cần sửa chữa theo thời gian.
+Yêu cầu công nghệ (b)Lợp(/b) để xây dựng.
+	</string>
+	
+	<string name="rock_pile_short_description">Nơi lưu trữ Đá lửa, Đá hoặc Quặng</string>
+	<string name="rock_pile_help_description">
+Nơi lưu trữ (b)Đá lửa(/b), (b)Đá(/b) hoặc (b)quặng(/b), thay vì sử dụng nơi cư trú hoặc các cấu trúc lưu trữ khác, lãng phí không gian có giá trị.
+	</string>
+
+	<string name="warehouse_short_description">Ngôi nhà bằng đá để lưu trữ và bảo tồn tài nguyên</string>
+	<string name="warehouse_help_description">
+Công trình lớn tạo từ (b)Đá(/b) với mái nhà bằng (b)Rơm rạ(/b), nơi tài nguyên có thể được lưu trữ và bảo quản lâu hơn.
+Nó bền hơn (b)Chòi lưu trữ(/b) và có thể lưu trữ nhiều tài nguyên hơn trong thời gian dài hơn.
+Yêu cầu công nghệ (b)Thợ nề(/b) để xây dựng.
+	</string>	
+	
+	<!-- === Production === -->
+	
+	<string name="hearth_short_description">Nơi nấu ăn, làm bánh mì và giao lưu</string>
+	<string name="hearth_help_description">
+Nơi chung nấu đồ ăn và làm bánh mì.
+	</string>	
+	
+	<string name="crafter_short_description">Nơi chế tạo công cụ và quần áo</string>
+	<string name="crafter_help_description">
+Nhà chế tạo là nơi sản xuất chính trong (b)Thời kỳ đồ đá(/b).
+Trong đó, mọi người có thể tạo ra tất cả (b)công cụ(/b) và (b)quần áo(/b) họ cần trong thời kỳ đầu.
+Đó là ý tưởng tốt sử dụng (b)sản xuất tự động(/b) (bằng cách nhấp chuột phải vào vật phẩm) và (b)giới hạn tài nguyên(/b) để tránh phải chế tạo công cụ thủ công mỗi khi bạn cần.
+	</string>
+	
+	<string name="skins_dryer_short_description">Nơi để làm Da phơi khô</string>
+	<string name="skins_dryer_help_description">
+Công trình mọi người có thể chế tạo (b)Da thô(/b) thành (b)Da phơi khô(/b), bền hơn và có thể sử dụng được.
+	</string>
+	
+	<string name="food_dryer_short_description">Nơi để thực phẩm khô</string>
+	<string name="food_dryer_help_description">
+Công trình nơi (b)Thịt sống(/b) và (b)Cá(/b) được xử lý thành (b)Thịt khô(/b) và (b)Cá khô(/b).
+	</string>
+
+	<string name="mortar_short_description">Tảng đá để nghiền Ngũ cốc thành Bột mỳ</string>
+	<string name="mortar_help_description">
+Tảng đá để nghiền (b)Ngũ cốc(/b) thành (b)Bột mỳ(/b). Đây là một quá trình tốn nhiều công sức. 
+	</string>
+	
+	<string name="tanner_short_description">Nơi làm Da thuộc từ Da thô</string>
+	<string name="tanner_help_description">
+Nơi mà (b)Da thô(/b) xử lý qua (b)Thuộc da(/b) thành (b)Da thuộc(/b).
+	</string>
+
+	<string name="well_short_description">Lỗ trên mặt đất để chiết xuất nước</string>
+	<string name="well_help_description">
+Giếng cung cấp cho khu định cư với nguồn (b)Nước(/b) ổn định, chúng có thể được đào trong bức tường của khu định cư để tránh mọi người phải đi đến con sông hoặc hồ gần nhất.
+	</string>
+	
+	<string name="flint_mine_short_description">Cấu trúc ngầm để tăng khả năng khai thác đá lửa</string>
+	<string name="flint_mine_help_description">
+(b)tăng thêm(/b) sản lượng của (b)Đá lửa(/b) có thể được trích từ một khoản lợi.
+	</string>
+	
+	<string name="weaver_short_description">Nơi làm vải</string>
+	<string name="weaver_help_description">
+Nơi mà (b)Lanh(/b) và (b)Len(/b) được dệt tạo ra vải, sau đó được sử dụng để may trang phục.
+	</string>
+
+	<string name="outfitter_short_description">Nơi may quần áo</string>
+	<string name="outfitter_help_description">
+Nơi mà trang phục được làm từ (b)Vải lanh(/b) và (b)Vải len(/b).
+	</string>	
+
+	<string name="brewery_short_description">Nơi nấu bia</string>
+	<string name="brewery_help_description">
+Cơ sở nơi mọi người có thể tạo ra (b)Bia(/b) từ (b)Ngũ cốc(/b) và (b)Nước(/b).
+(b)Bia(/b) nâng cao tinh thần trong khu định cư của bạn.
+	</string>
+
+	<string name="watermill_short_description">Nơi xay ngũ cốc bằng thủy lực</string>
+	<string name="watermill_help_description">
+Một nơi để xay lượng lớn (b)Ngũ cốc(/b) hiệu quả thành (b)Bột mỳ(/b) bằng thủy lực.
+	</string>
+
+	<string name="oven_short_description">Lò chung để nướng Bánh mì với số lượng lớn</string>
+	<string name="oven_help_description">
+Nơi nướng số lượng lớn (b)Bánh mỳ(/b) hiệu quả.
+	</string>
+	
+	<string name="workshop_short_description">Nơi chế tạo các dụng cụ linh tinh</string>
+	<string name="workshop_help_description">
+Nơi để tạo ra các công cụ từ (b)Thời đại đồng(/b) trở đi.
+Công trình này kết hợp với (b)Xưởng kim loại(/b) hoặc (b)Xưởng rèn(/b) phục vụ thay thế cho (b)Nhà chế tạo(/b).
+	</string>	
+	
+	<!-- === Metallurgy === -->
+		
+	<string name="copper_mine_short_description">Cấu trúc ngầm để tăng khai thác Quặng đồng</string>
+	<string name="copper_mine_help_description">
+Khai quật dưới lòng đất (b)tăng thêm(/b) sản lượng của (b)Quặng đồng(/b) có thể tăng thêm một khoản lợi.
+	</string>
+
+	<string name="tin_mine_short_description">Cấu trúc ngầm để tăng khai thác Quặng thiếc</string>
+	<string name="tin_mine_help_description">
+Khai quật dưới lòng đất (b)tăng thêm(/b) sản lượng của (b)Quặng thiếc(/b) có thể tăng thêm một khoản lợi.
+	</string>
+	
+	<string name="iron_mine_short_description">Cấu trúc ngầm để tăng khai thác Quặng sắt</string>
+	<string name="iron_mine_help_description">
+Khai quật dưới lòng đất (b)tăng thêm(/b) sản lượng của (b)Quặng sắt(/b) có thể tăng thêm một khoản lợi.    
+	</string>	
+	
+	<string name="charcoal_pit_short_description">Nơi sản xuất than củi từ gỗ</string>
+	<string name="charcoal_pit_help_description">
+Nơi sản xuất (b)Than củi(/b) từ gỗ.
+(b)Than củi(/b) sau đó được sử dụng trong lò để nấu chảy quặng thành kim loại.
+	</string>
+
+	<string name="pit_furnace_short_description">Nơi luyện đồng và quặng thiếc thành Đồng và Đồng đỏ</string>
+	<string name="pit_furnace_help_description">
+Lò cơ bản nơi (b)Than củi(/b) được sử dụng để đạt được nhiệt độ cao cần thiết để nấu chảy (b)Quặng đồng(/b) và (b)Quặng thiếc(/b) into (b)Đồng(/b) và (b)Đồng đỏ(/b).
+	</string>
+	
+	<string name="metalsmith_short_description">Nơi chế tạo các công cụ bằng Đồng và Đồng đỏ</string>
+	<string name="metalsmith_help_description">
+Nơi tạo ra công cụ và vũ khí từ (b)Đồng(/b) và (b)Đồng đỏ(/b).
+Lưu ý rằng chỉ một người có thể làm việc trong đó tại một thời điểm, vì vậy bạn thường sẽ cần xây dựng nhiều để tăng tốc.
+	</string>
+
+	<string name="bloomery_short_description">Nơi nấu chảy Quặng sắt thành Sắt và Thép</string>
+	<string name="bloomery_help_description">
+Lò nung tiên tiến, nơi có thể đạt đến nhiệt độ rất cao để nấu chảy (b)Quặng sắt(/b) thành (b)Sắt(/b) và (b)Thép(/b).
+	</string>
+
+	<string name="blacksmith_short_description">Nơi làm công cụ Sắt và Thép</string>
+	<string name="blacksmith_help_description">
+Nơi tạo công cụ và vũ khí từ (b)Sắt(/b) và (b)Thép(/b).
+Lưu ý rằng chỉ một người có thể làm việc trong đó tại một thời điểm, vì vậy bạn thường sẽ cần xây dựng nhiều để tăng tốc.
+	</string>
+
+	<!-- === Defensive === -->
+
+	<string name="palisade_short_description">Cấu trúc bằng gỗ đơn giản để bảo vệ khu định cư</string>
+	<string name="palisade_help_description">
+Cấu trúc bằng gỗ đơn giản để bảo vệ khu định cư. Nó được làm từ (b)Khúc gỗ(/b) và cung cấp một mức độ bảo vệ hợp lý.
+	</string>
+
+	<string name="gate_short_description">Cổng gỗ đơn giản, để kiểm soát quyền ra vào khu định cư</string>
+	<string name="gate_help_description">
+Cổng gỗ đơn giản, có thể chống lại các cuộc tấn công trong một khoảng thời gian hợp lý.
+	</string>
+
+	<string name="watchtower_short_description">Tháp cơ bản, từ đó bắn vào kẻ thù</string>
+	<string name="watchtower_help_description">
+Tháp phòng thủ cơ bản nhất. Tối đa 2 người có thể trú ẩn trong đó và (b)bắn(/b) kẻ thù sắp tới.
+Chúng yêu cầu định kỳ (b)sửa chữa(/b) và bảo trì.
+	</string>
+
+	<string name="wall_short_description">Bức tường đá vững chắc để bảo vệ khu định cư</string>
+	<string name="wall_help_description">
+Tường (b)Đá(/b) bền, cung cấp mức độ bảo vệ cao nhất hiện có để chống lại những kẻ xâm nhập.
+	</string>
+
+	<string name="reinforced_gate_short_description">Cổng gia cố bằng kim loại</string>
+	<string name="reinforced_gate_help_description">
+Cổng (b)gia cố(/b) bằng (b)kim loại(/b) để tăng khả năng chống lại sự tấn công.
+	</string>
+
+	<string name="guard_tower_short_description">Tháp phòng thủ được gia cố</string>
+	<string name="guard_tower_help_description">
+Tháp phòng thủ được gia cố. Tối đa 3 người có thể trú ẩn trong đó và bắn vào kẻ thù sắp tới. 
+Tháp bảo vệ yêu cầu sửa chữa và bảo trì định kỳ.
+	</string>
+	
+	<!-- === Spiritual === -->
+
+	<string name="skull_pole_short_description">Công trình tưởng nhớ người chết</string>
+	<string name="skull_pole_help_description">
+Công trình tưởng nhớ những người đã chết mà mọi người có thể đến thăm để phục hồi (b)Tinh thần(/b).
+	</string>
+
+	<string name="totem_short_description">Công trình để tôn vinh thiên nhiên</string>
+	<string name="totem_help_description">
+Biểu tượng cao cả, mạnh mẽ của cả bộ tộc và mối quan hệ của nó với thiên nhiên. Mọi người có thể sử dụng nó để khôi phục (b)Tinh thần(/b).
+	</string>
+	
+	<string name="menhir_short_description">Cự thạch đứng</string>
+	<string name="menhir_help_description">
+(b)Cự thạch(/b) đứng lớn. Mọi người có thể sử dụng nó để khôi phục (b)Tinh thần(/b).
+	</string>
+
+	<string name="dolmen_short_description">Tượng đài lớn làm bằng nhiều tảng đá nâng đỡ một tảng đá lớn hơn</string>
+	<string name="dolmen_help_description">
+Tượng đài đá bao gồm một số cột chống đỡ và một hoặc nhiều viên đá đặt trên đỉnh. Nó làm tăng (b)uy tín(/b) của bạn và tăng cường (b)Tinh thần(/b) mọi người.
+	</string>
+
+	<string name="stone_circle_short_description">Công trình cự thạch cuối cùng</string>
+	<string name="stone_circle_help_description">
+Công trình lớn bao gồm một số (b)Cự thạch(/b) sắp xếp trong một vòng tròn. Nó làm tăng đáng kể (b)uy tín(/b) khả năng định cư của bạn và thúc đẩy tăng (b)Tinh thần(/b) mọi người.
+	</string>
+	
+	<!-- === Transport === -->
+	<string name="bridge_short_description">Công trình cho phép vượt sông dễ dàng hơn</string>
+	<string name="bridge_help_description">
+Công trình giảm bớt (b)băng qua sông(/b).
+Nó đặc biệt hữu ích cho (b)Xe trượt(/b) và (b)Xe kéo(/b) nếu không thì chúng phải đi qua khúc sông cạn gần nhất.
+	</string>	
+
+  <!-- === RESOURCES: Categories === -->
+  
+	<string name="help_category_tool_description">
+Cần có các công cụ để thực hiện một số nhiệm vụ như săn bắn, mổ thịt, khai thác, câu cá hoặc thu hoạch. Người của bạn sẽ tự động tìm nạp công cụ phù hợp cho công việc trước khi thực hiện nó.
+Mỗi công cụ có một loạt các thuộc tính cho biết mức độ phù hợp của công cụ để thực hiện các nhiệm vụ nhất định:
+(b)Chiến đấu.(/b) Chiến đấu tay đôi.
+(b)Săn bắn.(/b) Giết động vật hoặc chiến đấu tầm xa.
+(b)Làm thịt.(/b) Bóc thịt động vật chết và khai thác tài nguyên từ chúng.
+(b)Đánh bắt cá.(/b) Khai thác cá từ sông hoặc hồ.
+(b)Thu hoạch.(/b) Thu hoạch lúa mạch hoặc xung quanh.
+(b)Khai thác mỏ.(/b) Khai thác quặng từ quặng mỏ hoặc mỏ.
+(b)Chặt cây.(/b) Chặt cây.
+Thuộc tính chiến đấu và săn bắn ảnh hưởng đến sát thương gây ra trong chiến đấu, các thuộc tính khác ảnh hưởng đến tốc độ hoàn thành nhiệm vụ.
+	</string>
+	
+	<string name="help_category_clothing_description">
+Quần áo bảo vệ người của bạn khỏi cái lạnh, tăng phúc lợi và giảm thiệt hại phải chịu trong chiến đấu.
+(b)Da(/b) và (b)Len(/b) trang phục bảo vệ mọi người trước nhiệt độ đóng băng. (b)Điều quan trọng(/b) là bạn có một trong những thứ này cho mỗi cư dân.
+Khi trời ấm, mọi người sẽ thích mặc trang phục (b)Da thuộc(/b) hoặc (b)Lanh(/b), chúng tăng cấp (b)phúc lợi(/b) và cung cấp sự bảo vệ nhẹ trong chiến đấu.
+Cách điển hình để đảm bảo bạn có đủ quần áo là đặt trang phục để sản xuất liên tục trong công trình (b)Nhà chế tạo(/b) hoặc (b)Xưởng may quần áo(/b) và giới hạn tài nguyên là 100%.
+Khi nhiệt độ giảm xuống dưới mức quần áo bảo hộ chịu đựng, thân nhiệt của người đó sẽ bắt đầu giảm xuống, lúc này họ sẽ phải tìm (b)nơi trú ẩn(/b) hoặc họ sẽ chết vì (b)hạ thân nhiệt(/b).	
+	</string>
+	
+	<string name="help_category_food_and_drink_description">
+Tài nguyên có thể được tiêu thụ để phục hồi (b)Dinh dưỡng(/b) và cấp độ (b)Hydrat hóa(/b).
+	</string>
+	
+	<string name="help_category_material_description">
+Tài nguyên được sử dụng để (b)chế tạo(/b) hoặc (b)xây(/b) tài nguyên hoặc công trình khác.
+	</string>
+	
+  <!-- === Tools === -->
+
+	<string name="biface_short_description">Dụng cụ cắt đa năng</string>
+	<string name="biface_help_description">
+Công cụ cắt cơ bản, được sử dụng để (b)làm thịt(/b) động vật, (b)gặt(/b) cây hoặc công cụ đơn giản để thay thế (b)vũ khí(/b).
+Bifaces được phân loại như con dao hơn là cái rìu, dựa trên các chức năng mà chúng thực hiện.
+	</string>
+	
+	<string name="wooden_spear_short_description">Công cụ săn bắn cơ bản</string>
+	<string name="wooden_spear_help_description">
+Công cụ (b)săn bắn(/b) và (b)chiến đấu tầm xa(/b) cơ bản nhất. Ngọn giáo bằng gỗ đơn giản với một đầu cứng bằng đá lửa.
+	</string>	
+
+	<string name="spear_short_description">Công cụ săn bắn</string>
+	<string name="spear_help_description">
+Giáo gỗ có thể được sử dụng để (b)săn bắn(/b) động vật hoặc (b)chiến đấu(/b) kẻ thù. Chúng được làm từ một trục gỗ và một cái đầu được làm từ một vật liệu khác, như (b)Xương(/b), (b)Đá lửa(/b) hoặc (b)kim loại(/b).
+Chúng được sử dụng tốt hơn trong chiến đấu tầm xa, nhưng nếu cần thiết cũng có thể được sử dụng ở phạm vi cận chiến, với hiệu quả giảm đi.
+	</string>
+
+	<string name="harpoon_short_description">Công cụ bắt cá</string>
+	<string name="harpoon_help_description">
+Lao xương là công cụ được chế tạo với mục đích để (b)đánh bắt cá(/b). Chúng được làm từ một trục gỗ và một cái đầu được thiết kế để bắt cá.
+	</string>  
+
+	<string name="fishing_rod_short_description">Công cụ bắt cá chuyên dụng</string>
+	<string name="fishing_rod_help_description">
+Công cụ (b)câu cá hiệu quả(/b) được sử dụng để bắt hầu hết mọi loại cá.
+	</string>  	
+	
+	<string name="axe_short_description">Công cụ đốn gỗ và chiến đấu</string>
+	<string name="axe_help_description">
+Rìu rất hữu ích để (b)đốn(/b) cây hoặc như (b)vũ khí(/b) để chiến đấu. Chúng có sức cản khác nhau và sức mạnh tùy thuộc vào việc chúng được làm bằng (b)Đá lửa(/b) hoặc (b)kim loại(/b).
+	</string>
+
+	<string name="pick_short_description">Công cụ để khai thác quặng hoặc đá.</string>
+	<string name="pick_help_description">
+Lựa chọn được sử dụng chủ yếu cho (b)phá đá(/b) và (b)khai thác mỏ(/b) các loại quặng khác nhau. Chúng bao gồm một tay cầm bằng gỗ và một đầu nhọn, cứng được làm bằng (b)Đá lửa(/b) hoặc (b)kim loại(/b).
+	</string>
+
+	<string name="knife_short_description">Công cụ được sử dụng chủ yếu để giết thịt động vật</string>
+	<string name="knife_help_description">
+Dao được sử dụng chủ yếu cho (b)làm thịt(/b) động vật chết và (b)giết mổ(/b) vật nuôi.
+Chúng cũng có thể được sử dụng trong (b)chiến đấu(/b) cận chiến nếu được yêu cầu. 
+Chúng được làm bằng tay cầm bằng gỗ, và lưỡi dao bằng (b)Đá lửa(/b) hoặc (b)kim loại(/b).
+	</string>
+
+	<string name="sickle_short_description">Công cụ thu hoạch</string>
+	<string name="sickle_help_description">
+Liềm là công cụ chuyên dụng được thiết kế để (b)thu hoạch(/b) hoa màu. Chất liệu của lưỡi dao càng tốt thì công cụ càng hiệu quả.
+	</string>  
+
+	<string name="bow_short_description">Săn bắn và vũ khí chiến đấu tầm xa</string>  
+	<string name="bow_help_description">
+(b)Vũ khí(/b) tấn công (b)tầm xa(/b) tuyệt vời, dùng để (b)săn bắn(/b) hoặc (b)chiến đấu(/b) kẻ thù ở khoảng cách xa.
+Cung có tầm bắn xa hơn giáo, nhưng không hiệu quả khi ở gần.
+	</string>    
+
+	<string name="sling_short_description">Công cụ săn bắn cơ bản</string>
+	<string name="sling_help_description">
+Ná là vật dụng cơ bản, dễ làm vũ khí (b)tầm xa(/b), sử dụng chủ yếu cho (b)săn bắn(/b).
+Ná có tầm bắn xa hơn giáo, nhưng không hiệu quả khi ở gần.
+	</string>  
+	
+	<string name="sword_short_description">Vũ khí chiến đấu tay đôi</string>
+	<string name="sword_help_description">
+Kiếm là vũ khí (b)cận chiến(/b) hiệu quả nhất của thời cổ đại. Chúng bao gồm một tay cầm bằng gỗ và một lưỡi dao sắc bén làm bằng kim loại.
+	</string>
+
+  <!-- === Materials === -->
+  
+	<string name="sticks_help_description">
+Được sử dụng chế tác hoặc vật liệu xây dựng hoặc làm nhiên liệu trong (b)Bếp lửa(/b), (b)Chòi(/b), (b)Lò(/b) hoặc (b)Nhà tròn(/b).
+	</string>
+
+	<string name="log_help_description">
+Khúc gỗ có thể được sử dụng trong xây dựng hoặc làm nhiên liệu trong (b)Bếp lửa(/b), (b)Chòi(/b), (b)Lò(/b) hoặc (b)Nhà tròn(/b).
+	</string>
+
+	<string name="flint_help_description">
+Vật liệu chế tác có giá trị, sử dụng để làm tất cả các loại (b)công cụ(/b) trong (b)Thời kì đồ đá(/b).
+	</string>
+
+	<string name="stone_help_description">
+Tảng đá lớn được sử dụng để xây dựng các công trình vững chắc.
+	</string>
+
+	<string name="megalith_help_description">
+Tảng đá khổng lồ có thể được sử dụng để xây dựng (b)công trình cự thạch(/b).
+Cự thạch cần được khai thác trước, sau đó sẵn sàng vận chuyển và cuối cùng được con người kéo đến công trường.
+Bạn có thể dùng (b)tầm nhìn sơ khai(/b) để tìm và theo dõi cự thạch.
+	</string>
+	
+	<string name="bone_help_description">
+Được sử dụng như một vật liệu chế tạo hoặc xây dựng.
+	</string>
+
+	<string name="raw_skin_help_description">
+Da sống của động vật, nó cần phải được (b)phơi khô(/b) hoặc (b)xử lý(/b) trước khi được sử dụng.
+	</string>
+	
+	<string name="dry_skin_short_description">Da khô</string>	
+	<string name="dry_skin_help_description">
+Da khô, được dùng cho (b)chế tác(/b) công cụ hoặc (b)xây dựng(/b) công trình.
+	</string>
+	
+	<string name="leather_short_description">Da được thuộc da để bền hơn</string>	
+	<string name="leather_help_description">
+(b)Da(/b) đã được (b)phơi nắng(/b) để làm cho nó (b)bền(/b) hơn. Da có thể được sử dụng để chế tạo quần áo và công cụ hoặc xây dựng công trình.
+	</string>
+	
+	<string name="tannin_help_description">
+Chất được sử dụng để biến đổi (b)Da thô(/b) thành (b)Da thuộc(/b). Nó được lấy từ vỏ của một số cây, chẳng hạn như (b)Sồi(/b) và (b)Bách(/b). 
+	</string>
+	
+	<string name="straw_help_description">
+(b)Rơm rạ(/b) thu được khi thu hoạch ngũ cốc. Nó là một nguồn tài nguyên rất quan trọng từ thời đồ đá mới trở đi, vừa là (b)vật liệu xây dựng(/b) và vừa là (b)thức ăn gia súc(/b).
+	</string>
+	
+	<string name="mud_help_description">
+Dùng như (b)vật liệu xây dựng(/b), bùn có thể được (b)khai thác(/b) từ (b)sông(/b) và (b)hồ(/b).
+	</string>
+
+	<string name="wool_help_description">
+Loại sợi dệt thu được từ lông cừu, sử dụng để làm (b)quần áo ấm(/b).
+	</string>
+	
+	<string name="linen_help_description">
+Loại sợi dệt thu được từ vải lanh, được sử dụng để may quần áo và các nguồn tài nguyên khác.
+	</string>
+
+	<string name="wool_cloth_short_description">Vải dùng để may trang phục giữ ấm</string>	
+	<string name="wool_cloth_help_description">
+Vải có đặc tính cách nhiệt tuyệt vời được sử dụng để tạo ra (b)quần áo ấm(/b).
+	</string>
+
+	<string name="linen_cloth_short_description">Vải dùng trong trang phục nhẹ</string>
+	<string name="linen_cloth_help_description">
+Vải dùng trong trang phục nhẹ.
+	</string>
+
+	<string name="charcoal_short_description">Sử dụng trong lò nung để nấu chảy quặng</string>
+	<string name="charcoal_help_description">
+Sản phẩm phụ của (b)gỗ(/b) đun nóng trong điều kiện không có oxy, nó được yêu cầu cho các lò nung để đạt được nhiệt độ cao cần thiết cho (b)nấu chảy(/b) của (b)quặng(/b).
+	</string>
+
+	<string name="copper_ore_help_description">
+Loại quặng có chứa đồng. Có thể được nấu chảy thành (b)Đồng(/b), hoặc trộn với (b)Quặng thiếc(/b) tạo ra (b)Đồng đỏ(/b).
+	</string>	
+	
+	<string name="tin_ore_help_description">
+Loại quặng có chứa thiếc. Có thể trộn với (b)Quặng đồng(/b) để sản xuất (b)Đồng đỏ(/b).
+	</string>		
+	
+	<string name="iron_ore_help_description">
+Loại quặng có chứa sắt. Có thể nấu chảy để sản xuất (b)Sắt(/b) hoặc (b)Thép(/b).
+	</string>
+
+	<string name="copper_short_description">Kim loại mềm</string>
+	<string name="copper_help_description">
+(b)Kim loại mềm(/b), dễ lấy và làm việc với các công cụ cơ bản.
+	</string>	
+
+	<string name="bronze_short_description">Kim loại cứng và bền</string>
+	<string name="bronze_help_description">
+Hợp kim của (b)Quặng đồng(/b) và (b)Quặng thiếc(/b), khó hơn nhiều so với (b)Đồng(/b).
+(b)Đồng đỏ(/b) khó như (b)Sắt(/b) nhưng nó đòi hỏi phải tạo ra thiếc, không được cung cấp rộng rãi như (b)Quặng sắt(/b).
+	</string>
+
+	<string name="iron_short_description">Kim loại cứng và bền</string>		
+	<string name="iron_help_description">
+Sắt là kim loại (b)cứng và bền(/b), được sử dụng để chế tạo nhiều công cụ, vũ khí và cũng được sử dụng trong xây dựng.
+Nó đòi hỏi nhiệt độ cao hơn để nấu chảy so với (b)Đồng đỏ(/b), vì vậy nó phải được sản xuất trong những lò nung đặc biệt.
+Ưu điểm của nó so với (b)Đồng đỏ(/b) là (b)Quặng sắt(/b) dồi dào hơn rất nhiều so với (b)Quặng thiếc(/b).
+	</string>
+	
+	<string name="steel_short_description">Kim loại rất cứng và bền</string>			
+	<string name="steel_help_description">
+(b)Thép(/b) thu được bằng cách kiểm soát cẩn thận lượng cacbon trộn với sắt trong quá trình nấu chảy. Nó là (b)Kim loại rất cứng và bền(/b) có sẵn.
+	</string>
+	
+  <!-- === Food và drink === -->
+  
+	<string name="raw_meat_help_description">
+Thịt chưa được chế biến theo bất kỳ cách nào, sẽ (b)phân rã nhanh chóng(/b) nếu để nguyên.
+Nó có thể (b)nấu chín(/b) để ăn. Trong trường hợp cực đoan, nó có thể ăn, nhưng sẽ khiến tinh thần sa sút.
+	</string>
+
+	<string name="cured_meat_short_description">Thịt đã được phơi khô. Tồn tại trong một thời gian dài</string>
+	<string name="cured_meat_help_description">
+Thịt đã được chế biến trên (b)Giá phơi thực phẩm(/b). Nó tồn tại (b)lâu hơn(/b) hơn (b)Thịt sống(/b).
+	</string>	
+	
+	<string name="raw_fish_help_description">
+Cá không được chế biến theo bất kỳ cách nào kể từ khi bắt. (b)Phân hủy rất nhanh(/b).
+Nó có thể (b)nấu chín(/b) để ăn. Trong trường hợp cực đoan, nó có thể ăn, nhưng sẽ khiến tinh thần sa sút.
+	</string>
+
+	<string name="dry_fish_short_description">Cá đã được phơi khô. Tồn tại trong một thời gian dài</string>		
+	<string name="dry_fish_help_description">
+Cá đã được chế biến trên (b)Giá phơi thực phẩm(/b). Nó tồn tại (b)lâu hơn(/b) hơn (b)Cá sống(/b).
+	</string>
+	
+	<string name="berries_help_description">
+Trái cây theo mùa do một số loài cây dại sinh ra. 
+Chúng không tồn tại lâu, nhưng rất tốt để (b)ăn(/b) khi vào (b)mùa(/b) để giữ thức ăn bền hơn trong mùa đông.
+	</string>
+	
+	<string name="fruit_help_description">
+Trái cây theo mùa do một số cây dại sản xuất. 
+Chúng không tồn tại lâu, nhưng rất tốt để (b)ăn(/b) khi vào (b)mùa(/b) để giữ thức ăn bền hơn trong mùa đông.
+	</string>
+	
+	<string name="nuts_help_description">
+Các loại hạt theo mùa do một số cây dại sản xuất. 
+Chúng không tồn tại lâu, nhưng rất tốt để (b)ăn(/b) khi vào (b)mùa(/b) để giữ thức ăn bền hơn trong mùa đông.
+	</string>
+	
+	<string name="grain_help_description">
+Sử dụng để làm (b)Bột mỳ(/b), đến lượt nó có thể được chuyển đổi thành (b)Bánh mỳ(/b). Nó cũng là thành phần chính trong (b)Bia(/b), giúp nâng cao tinh thần.
+Đây là loại thực phẩm (b)bền nhất(/b) hiện có, và tài nguyên tốt nhất để nuôi (b)một lượng lớn người(/b), ngay cả khi có khá nhiều lao động.
+Nó cũng có thể dùng làm thức ăn cho động vật nếu được yêu cầu, nhưng tốt hơn là nên sử dụng (b)Rơm rạ(/b) thay thế.
+	</string>
+	
+	<string name="flour_short_description">Thành phần chính của bánh mì</string>	
+	<string name="flour_help_description">
+Loại bột thu được từ nghiền nát (b)Ngũ cốc(/b) hoặc trong (b)Cối xay(/b) hoặc (b)Cối xay nước(/b). 
+Nó là thành phần chính của (b)Bánh mỳ(/b).
+	</string>
+	
+	<string name="bread_short_description">Bánh mì bột đơn giản</string>		
+	<string name="bread_help_description">
+Thực phẩm thu được bằng cách nướng (b)Bột mỳ(/b) và nước trong (b)Bếp lửa(/b) hoặc (b)Lò(/b).
+Nó không tồn tại được lâu nên tốt hơn là bạn nên cất giữ (b)Ngũ cốc(/b) và chỉ sản xuất (b)Bánh mỳ(/b) ngay trước khi sử dụng.
+	</string>
+	
+	<string name="pulses_help_description">
+Hạt của nhiều loại quả họ đậu. Chúng cần phải (b)nấu chín(/b) trước khi ăn.
+	</string>
+	
+	<string name="milk_help_description">
+Thức uống bổ dưỡng thu được từ (b)Dê(/b) hoặc (b)Bò nhà(/b).
+	</string>
+	
+	<string name="water_help_description">
+Có bộ thu gom nước chuyên dụng để dẫn nước từ sông, hồ hoặc giếng (b)hiệu quả hơn(/b) cho mỗi lần mọi người đi đến nguồn nước.
+(b)Động vật(/b) bị thương cần mang theo (b)Nước(/b) trong (b)mùa đông(/b), hoặc chúng sẽ chết khát.
+	</string>
+	
+	<string name="beer_short_description">Phục hồi tinh thần và hydrat hóa</string>		
+	<string name="beer_help_description">
+Thức uống có cồn nhẹ thu được bằng cách pha (b)Ngũ cốc(/b) với (b)Nước(/b). Nó tăng cường (b)Tinh thần(/b) người dân.
+	</string>
+	
+	
+  <!-- === Clothing === -->
+
+	<string name="skins_outfit_short_description">Trang phục ấm áp làm bằng da thú</string>
+	<string name="skins_outfit_help_description">
+Một bộ trang phục làm từ (b)Da(/b) động vật, nguồn cung cấp (b)sự bảo vệ(/b) tuyệt vời chống lại (b)lạnh(/b) trong mùa đông.
+Nó cũng tăng (b)phúc lợi(/b), và cung cấp sự bảo vệ nhẹ trong chiến đấu.
+	</string>
+
+	<string name="leather_outfit_short_description">Trang phục nhẹ làm bằng da</string>
+	<string name="leather_outfit_help_description">
+Quần áo làm từ (b)Da thuộc(/b), được mặc trong mùa ấm áp.
+Nó cũng tăng (b)phúc lợi(/b), và cung cấp sự bảo vệ nhẹ trong chiến đấu.
+	</string>
+	
+	<string name="wool_outfit_short_description">Trang phục ấm áp và phong cách</string>
+	<string name="wool_outfit_help_description">
+Bộ quần áo ấm áp để (b)bảo vệ(/b) khỏi cái (b)lạnh(/b) ở nhiệt độ thấp.
+Nó cũng tăng (b)phúc lợi(/b), và cung cấp sự bảo vệ nhẹ trong chiến đấu.
+(b)Đồ len(/b) (b)bền(/b) hơn (b)Đồ da(/b), và cung cấp thêm (b)phúc lợi(/b).
+	</string>
+	
+	<string name="linen_outfit_short_description">Trang phục nhẹ nhàng và phong cách</string>
+	<string name="linen_outfit_help_description">
+Bộ quần áo nhẹ để mặc trong nhiệt độ ấm áp.
+Nó cũng tăng (b)phúc lợi(/b), và cung cấp sự bảo vệ nhẹ trong chiến đấu.
+(b)Đồ vải lanh(/b) (b)bền(/b) hơn (b)Đồ da thuộc(/b), và cung cấp thêm (b)phúc lợi(/b).
+	</string>	
+	
+  <!-- === TECHS: categories === -->
+	
+	<string name="help_era_paleolithic_description">
+Thời kỳ mà con người chủ yếu sống ở (b)săn bắn hái lượm(/b) sử dụng các công cụ làm bằng (b)Đá(/b).
+	</string>
+	
+	<string name="help_era_mesolithic_description">
+Thời kỳ mà con người bắt đầu tạo ra (b)đồ gốm(/b) và (b)công cụ bằng đá(/b) tinh vi hơn.    
+	</string>
+	
+	<string name="help_era_neolithic_description">
+Thời kỳ mà con người bắt đầu (b)thuần hóa cây trồng(/b) và (b)động vật(/b) và đạt được những tiến bộ công nghệ nhanh chóng.  
+	</string>
+	
+	<string name="help_era_copper_age_description">
+Thời kỳ con người khám phá ra cách (b)nấu chảy đồng(/b) tạo ra những công cụ kim loại đầu tiên.
+	</string>
+	
+	<string name="help_era_bronze_age_description">
+Thời kỳ con người khám phá ra cách trộn thiếc và đồng dẫn đến sử dụng rộng rãi công cụ và đồ vật (b)Đồng đỏ(/b).
+	</string>
+
+	<string name="help_era_iron_age_description">
+Thời kỳ đặc trưng bởi việc sử dụng rộng rãi công cụ và vật dụng bằng (b)Sắt(/b). 
+	</string>
+
+	<!-- === Generic === -->
+	
+	<string name="domestication_tech_help_description">
+Công nghệ thuần hóa cho phép bạn (b)thuần hóa động vật hoang dã(/b).
+Sau khi công nghệ được nghiên cứu, bạn sẽ có thể (b)bắt động vật hoang dã(/b) hoặc (b)mua sắm(/b)  chúng từ thương nhân.
+Để bắt động vật hoang dã, bạn cần chọn con non đúng loại rồi bấm vào nút bắt.
+Đảm bảo có đủ chỗ trong (b)Chuồng(/b), nếu không động vật sẽ chết vào mùa đông.
+	</string>
+	
+	<!-- === Paleolithic === -->
+
+	<string name="bone_tools_help_description">
+Mở khóa tạo ra (b)công cụ(/b) (b)Xương(/b) làm bằng động vật, hiệu quả cho một số nhiệm vụ.
+	</string> 
+	
+	<string name="composite_tools_help_description">
+Mở khóa tạo ra công cụ bao gồm (b)một số bộ phận(/b). Công cụ tổng hợp rất hữu ích cho (b)săn bắn(/b) động vật lớn hơn hoặc (b)chặt cây(/b).
+	</string> 	
+	
+	<string name="slingmaking_help_description">
+Cho phép bạn chế tạo (b)Ná(/b), đó là công cụ săn bắn cơ bản.
+	</string> 
+	
+	<string name="food_drying_help_description">
+Mở khóa xây dựng (b)Giá phơi thực phẩm(/b), nơi bạn có thể sản xuất (b)Thịt khô(/b) và (b)Cá khô(/b), là những loại thực phẩm lâu dài duy nhất có sẵn trong (b)Đồ đá cũ(/b).
+	</string> 
+	
+	<string name="dog_domestication_help_description">
+Mở khóa thuần hóa (b)Chó(/b). Chó từ từ đến khu định cư và giúp bạn bảo vệ khu định cư.
+	</string> 
+	
+	<string name="tanning_help_description">
+Mở khóa (b)Thuộc da(/b), nơi bạn có thể sản xuất (b)Da thuộc(/b).
+	</string>
+
+	<string name="spirituality_help_description">
+Mở khóa xây dựng côn trình (b)Vật tổ(/b), giúp giữ tinh thần cao giải quyết công việc.
+	</string> 	
+ 
+ <!-- === Mesolithic === -->
+ 
+	<string name="stone_polishing_help_description">
+Mở khóa (b)làm bóng(/b) công cụ bằng đá trong (b)Nhà chế tạo(/b).
+	</string> 
+	
+	<string name="pottery_help_description">
+Mở khóa kỷ nguyên (b)Thời kỳ đồ đá cũ(/b), và cũng là khả năng (b)vận chuyển(/b) và (b)trữ nước(/b). 
+Nó hiệu quả hơn rất nhiều so với việc mọi người đi tìm nguồn nước mỗi lần.
+	</string> 
+
+	<string name="archery_help_description">
+Mở khóa tạo ra (b)Cung tên(/b), công cụ săn bắn tốt nhất hiện có trong (b)Thời kì đồ đá(/b).
+	</string> 
+
+	<string name="grain_processing_help_description">
+Cho phép bạn thu hoạch (b)Ngũ cốc hoang(/b), nghiền nát chúng thành (b)Bột mỳ(/b) và làm (b)Bánh mỳ(/b).
+	</string> 
+
+	<string name="pulse_processing_help_description">
+Cho phép bạn thu hoạch (b)xung hoang dã(/b) và nấu chúng.
+	</string> 
+	
+	<string name="sledgemaking_help_description">
+Mở khóa xây dựng (b)Xe trượt(/b), là phương tiện giao thông quan trọng trong thời kỳ đầu.
+	</string> 
+	
+ <!-- === Neolithic === -->
+ 
+	<string name="underground_mining_help_description">
+Cho phép bạn xây dựng mỏ trên đầu của deposits. Mỏ (b)gia tăng(/b) đáng kể số lượng (b)Tài nguyên(/b) bạn có thể trích xuất từ (b)deposit(/b).
+	</string> 
+	
+	<string name="thatching_help_description">
+Mở khóa (b)công trình lợp bằng tranh(/b), nói chung bền hơn và cao cấp hơn công trình lợp bằng da.
+	</string> 
+
+	<string name="well_digging_help_description">
+Cho phép bạn chế tạo (b)Giếng(/b), hiệu quả hơn là phải đi lấy nước từ con sông gần nhất hoặc hồ.
+	</string> 
+	
+	<string name="fortifications_help_description">
+Mở khóa xây dựng (b)công trình phòng thủ(/b) cơ bản có thể được sử dụng để bảo vệ khu định cư chống lại (b)kẻ cướp(/b) và (b)động vật ăn thịt(/b) để giảm thiểu thiệt hại về nhân mạng.
+	</string> 
+	
+	<string name="reinforced_fortifications_help_description">
+Mở khóa xây dựng (b)Cổng kiên cố(/b) và (b)Tháp canh(/b).
+Chúng bền hơn so với các đối tác bằng gỗ, và trong trường hợp (b)Tháp canh(/b) có thể chứa nhiều người hơn.
+	</string> 	
+	
+	<string name="cereal_domestication_help_description">
+Nó cho phép bạn (b)trồng cây(/b) và (b)thu hoạch ngũ cốc(/b), mở khóa kỷ nguyên (b)Đồ đá mới(/b).
+Nó (b)tăng thêm(/b) đáng kể sản lượng của (b)người(/b) bạn có thể tin cậy (b)nuôi dưỡng(/b) mỗi năm.
+Đây là một trong những công nghệ quan trọng nhất trong lịch sử loài người.
+	</string> 
+	
+	<string name="pulse_domestication_help_description">
+Cho phép bạn (b)trồng cây(/b) và (b)thu hoạch đậu(/b). 
+Đậu thường được thu hoạch vào mùa hè, vì vậy chúng là bổ sung ngũ cốc thu hoạch vào mùa thu.
+	</string>
+	
+	<string name="flax_domestication_help_description">
+Cho phép bạn trồng (b)Lanh(/b), sử dụng sản xuất (b)Vải lanh(/b).
+	</string>
+
+	<string name="weaving_help_description">
+Cho phép bạn chế tạo vải và trang phục làm bằng (b)Lanh(/b) và (b)Len(/b).
+	</string>
+	
+	<string name="stilting_help_description">
+Cho phép bạn xây dựng (b)Cầu(/b).
+	</string>
+	
+	<string name="megalithism_help_description">
+Cho phép bạn xây dựng (b)công trình cự thạch(/b) làm tăng (b)uy tín(/b) và giúp cải thiện (b)Tinh thần(/b).
+	</string>
+	
+ <!-- === Copper Age === -->
+ 
+	<string name="copper_smelting_help_description">
+Mở khóa sản lượng của (b)Đồng(/b) trong (b)Lò nung(/b), công trình (b)Xưởng kim loại(/b) và việc tạo ra công cụ và vũ khí (b)Đồng(/b).
+Mở khóa the (b)Thời đại đồng(/b).
+	</string>
+	
+	<string name="fruit_tree_domestication_help_description">
+Cho phép bạn trồng (b)fruit trees(/b).
+	</string>
+	
+	<string name="rye_domestication_help_description">
+Cho phép bạn trồng và thu hoạch lúa mạch đen, tăng giống cây trồng là cách tốt để bảo vệ chống lại (b)bệnh tật(/b).
+	</string>
+		
+	<string name="wheel_help_description">
+Mở khóa xây dựng (b)Xe kéo(/b) nó sẽ cho phép bạn (b)vận chuyển(/b) số lượng lớn (b)Tài nguyên(/b).
+	</string>
+	
+ <!-- === Bronze Age === -->
+ 
+	<string name="bronze_smelting_help_description">
+Mở khóa sản lượng của (b)Đồng đỏ(/b) in (b)Lò nung(/b) và tạo ra công cụ bằng (b)Đồng đỏ(/b) và vũ khí.
+Mở khóa (b)Thời kỳ đồ đồng(/b).
+	</string>
+	
+	<string name="masonry_help_description">
+Mở khóa cấu trúc (b)Đá(/b) nói chung là (b)bền(/b) hơn và cao cấp hơn cấu trúc (b)Bùn(/b).
+	</string>
+	
+	<string name="swordmaking_help_description">
+Mở khóa (b)Kiếm(/b), (b)vũ khí cận chiến hiệu quả(/b) nhất.
+	</string>
+	
+	<string name="composite_archery_help_description">
+Mở khóa (b)Cung tổng hợp(/b), (b)vũ khí săn bắn(/b) có hiện lực nhất.
+	</string>
+	
+	<string name="brewing_help_description">
+Mở khóa sản lượng của (b)Bia(/b), có thể giúp tăng cường (b)Tinh thần(/b) trong cộng đồng.
+	</string>
+	
+ <!-- === Iron Age === -->
+ 
+	<string name="iron_smelting_help_description">
+Mở khóa nấu chảy (b)Sắt(/b) trong (b)Bloomeries(/b), cấu trúc (b)Xưởng rèn(/b) và tạo ra công cụ bằng (b)Sắt(/b) và vũ khí.
+Mở khóa (b)Thời kỳ đồ sắt(/b).
+	</string>
+	
+	<string name="steelmaking_help_description">
+Mở khóa sản lượng của (b)Thép(/b), vật liệu (b)khó nhất(/b) và (b)bền nhất(/b) có ở thời cổ đại.
+	</string>
+	
+	<string name="hydropower_help_description">
+Mở khóa xây dựng (b)Cối xay nước(/b), có thể đẩy nhanh quá trình sản xuất (b)Bột mỳ(/b).
+	</string>
+	
+	<string name="baking_help_description">
+Mở khóa xây dựng (b)Lò(/b), có thể đẩy nhanh quá trình sản xuất (b)Bánh mỳ(/b).
+	</string>
+
+  <!-- === ANIMALS: categories === -->	
+  
+	<string name="help_domestic_animals_description">
+Vật nuôi cung cấp nhiều lợi ích cho việc định cư của bạn: (b)sự bảo vệ(/b), (b)thức ăn(/b), (b)Tài nguyên(/b) và (b)sức mạnh cơ bắp(/b).
+Bạn có thể kiếm được vật nuôi bằng cách (b)thu mua(/b) chúng từ các thương nhân, hoặc bởi (b)thuần hóa con non(/b) các cá thể của biến thể hoang dã tương đương.
+Vật nuôi cần được che chở trong mùa đông, và được cung cấp (b)Nước(/b) và (b)Rơm rạ(/b). Nếu không có có sẵn (b)Rơm rạ(/b), bạn có thể cho chúng ăn (b)Ngũ cốc(/b).
+Lưu ý rằng (b)Chó(/b), cũng như (b)Lừa nhà(/b) hoặc (b)Ngựa nhà(/b) là (b)gắn liền với phương tiện giao thông(/b), không cần nơi trú ẩn hoặc thức ăn vào mùa đông.
+Con cái trưởng thành sẽ mang thai và (b)sinh(/b) động vật mới miễn là có một con trưởng thành hoặc đực già xung quanh.
+Lưu ý rằng người của bạn sẽ tự động (b)tàn sát(/b) bất kỳ vật nuôi nào (b)quá già(/b), ngay cả khi chúng ở dưới mức giới hạn.
+	</string>
+	
+	<string name="help_wild_animals_description">
+Động vật hoang dã sống trong đất và phần lớn (b)tránh con người(/b).
+Những kẻ săn mồi gây ra mối đe dọa nếu chúng (b)rất đói(/b), hoặc nếu họ cảm thấy (b)bị đe dọa(/b).
+	</string>
+  
+  <!-- === Animals === -->
+  
+	<string name="dog_help_description">
+(b)Chó(/b) là con vật nuôi đầu tiên xuất hiện trong khu định cư của bạn. Chúng rất xuất sắc (b)canh phòng(/b) và giúp bạn chống lại bất kỳ kẻ xâm nhập nào.
+Khi công nghệ (b)Thuần hóa chó(/b) được nghiên cứu, chó sẽ tiếp tục đến làng với tốc độ ổn định, tùy thuộc vào dân số của bạn.
+Chúng ăn thức ăn thừa của con người, vì vậy chúng không cần được cho ăn hoặc nơi trú ẩn.
+	</string>
+	
+	<string name="goat_help_description">
+(b)Dê(/b) sản xuất (b)Sữa(/b) và cũng có thể bị giết mổ để lấy thịt và da.
+	</string>	
+	
+	<string name="sheep_help_description">
+(b)Cừu(/b) sản xuất (b)Len(/b) và cũng có thể bị giết mổ để lấy thịt và da.
+	</string>		
+	
+	<string name="pig_help_description">
+(b)Lợn(/b) chủ yếu là nguồn thịt.
+	</string>	
+	
+	<string name="cattle_help_description">
+(b)Bò nhà(/b) sản xuất (b)Sữa(/b) và cũng có thể bị giết mổ để lấy thịt và da.
+	</string>		
+	
+	<string name="donkey_help_description">
+(b)Lừa nhà(/b) được sử dụng chủ yếu để kéo (b)Xe kéo(/b), nhưng chúng cũng có thể bị giết để lấy thịt.
+	</string>		
+	
+	<string name="horse_help_description">
+(b)Ngựa nhà(/b) được sử dụng chủ yếu để kéo (b)Xe kéo(/b), nhưng chúng cũng có thể bị giết để lấy thịt.
+	</string>			
+	
+	<string name="herbivore_help_description">
+Động vật ăn cỏ đi lang thang và kiếm ăn. Chúng là một nguồn chính của (b)Thịt(/b), (b)Da thô(/b) và (b)Xương(/b).
+(b)Người lớn(/b) khỏe manh thì nhanh hơn và (b)Cứng hơn(/b), vì họ yêu cầu các công cụ tốt hơn hoặc nhiều thợ săn hơn để hiệu quả hơn.
+Bạn có thể xác định con mồi dễ dàng hơn bằng cách sử dụng (b)tầm nhìn sơ khai(/b) hoặc bằng cách nhấp vào các cá thể.
+	</string>	
+	
+	<string name="large_herbivore_help_description">
+Động vật ăn cỏ lớn cung cấp cho người dân lượng lớn (b)Tài nguyên(/b) các chất cần thiết.
+Tuy nhiên chúng quen với việc tự vệ trước kẻ săn mồi, và (b)có thể trả đũa(/b) nếu bị tấn công. Tiếp cận chúng một cách cẩn thận.
+	</string>		
+	
+	<string name="predator_help_description">
+Động vật ăn thịt là động vật săn mồi một cách tự nhiên. Phần lớn chúng sẽ để con người yên, trừ khi đói hoặc bị khiêu khích.
+Bạn có thể dùng (b)tầm nhìn sơ khai(/b) để xác định chúng trên bản đồ, nơi chúng sẽ hiển thị được đánh dấu bằng màu cam hoặc đỏ.
+	</string>
+
+	<!-- === TRANSPORTS (no categories) === -->
+
+	<string name="sledge_short_description">Phương tiện vận tải cơ bản do người kéo</string>
+	<string name="sledge_help_description">
+Hình thức vận tải cơ bản nhất, nó cho phép một người lớn di chuyển (b)vật nặng(/b) một cách dễ dàng.
+	</string>
+
+	<string name="cart_short_description">Phương tiện vận tải có bánh do động vật kéo</string>
+	<string name="cart_help_description">
+Cho phép bạn di chuyển (b)số lượng lớn(/b) của (b)vật nặng(/b) xung quanh.
+Xe được kéo bởi (b)Lừa nhà(/b) hoặc (b)Ngựa nhà(/b). Khi một vật nuôi có sẵn, nó sẽ tự động được gắn vào phương tiện vận tải.
+	</string>
+	
+	<string name="rolling_megalith_short_description">Phương tiện vận tải chuyên dụng để di chuyển cự thạch</string>
+	<string name="rolling_megalith_help_description">
+Để di chuyển (b)Cự thạch(/b) xung quanh chúng được đặt vào các thanh gỗ lăn, và sau đó được kéo bởi (b)một số người(/b).
+	</string>
+
+	<!-- === PLANTS === -->
+	<string name="help_related_techs">Công nghệ có liên quan</string>
+
+	<string name="help_plants_description">
+Thực vật mọc trong tự nhiên là một nguồn (b)Tài nguyên(/b) tuyệt vời.
+Khi bạn có (b)công nghệ(/b) phù hợp, Bạn sẽ có thể (b)trồng(/b) một số chúng.
+	</string>
+
+	<string name="help_plant_harvesting_season">Mùa thu hoạch</string>
+	<string name="help_plant_planting_season">Mùa trồng trọt</string>
+	<string name="help_plant_disease_resistance">Kháng bệnh: (1)%</string>
+	<string name="help_plant_extra_production">(1)% cơ hội sản xuất thêm tài nguyên: (2)</string>
+
+	<string name="help_plant_type_cereals">Ngũ cốc</string>
+	<string name="help_plant_type_berries">Quả mọng</string>
+	<string name="help_plant_type_pulses">Đậu</string>
+	<string name="help_plant_type_fruit_trees">Cây ăn quả</string>
+	<string name="help_plant_type_other">Khác</string>
+	
+	<string name="help_einkorn_description">
+Loại ngũ cốc cứng, (b)khán lại(/b) bệnh tật.
+	</string>
+
+	<string name="help_emmer_description">
+Loại ngũ cốc năng suất cao, sản xuất (b)thêm ngũ cốc(/b).
+	</string>
+
+	<string name="help_barley_description">
+Loại ngũ cốc sản xuất (b)thêm Rơm(/b).
+	</string>
+	
+	<string name="help_flax_description">
+Nơi sản xuất (b)Lanh(/b).
+	</string>	
+
+	<string name="help_peas_description">
+Cây họ đậu bổ dưỡng.
+	</string>	
+	
+	<string name="help_chickpeas_description">
+Cây họ đậu bổ dưỡng.
+	</string>	
+	
+	<string name="help_lentils_description">
+Cây họ đậu bổ dưỡng.
+	</string>	
+	
+	<string name="help_bitter_vetch_description">
+Cây họ đậu bổ dưỡng.
+Nó có thể mọc hoang, nhưng nó cũng có thể trồng được.
+	</string>
+	
+	<string name="help_strawberry_description">
+Loại quả mọng hoang dã có thể thu thập theo mùa.
+	</string>		
+	
+	<string name="help_blackberry_description">
+Loại quả mọng hoang dã có thể thu thập theo mùa.
+	</string>		
+	
+	<string name="help_blueberry_description">
+Loại quả mọng hoang dã có thể thu thập theo mùa.
+	</string>	
+	
+	<string name="help_raspberry_description">
+Loại quả mọng hoang dã có thể thu thập theo mùa.
+	</string>			
+	
+	<string name="help_chestnut_description">
+Cho hạt dẻ bổ dưỡng.
+	</string>		
+	
+	<string name="help_pear_description">
+Cho trái cây bổ dưỡng.
+	</string>			
+	
+	<string name="help_service_description">
+Cho trái cây bổ dưỡng.
+	</string>		
+	
+	<string name="help_cherry_description">
+Cho trái cây bổ dưỡng.
+	</string>			
+
+	<string name="help_rye_description">
+Loại ngũ cốc tròn, (b)chống chịu(/b) tốt hơn, và sản xuất lượng lớn (b)Ngũ cốc(/b).
+	</string>
+	
+	<string name="help_oak_description">
+(b)Thuộc da(/b), thành phần thiết yếu để sản xuất (b)Da thuộc(/b) có thể được lấy từ vỏ của cây.
+	</string>	
+
+	<string name="help_fir_description">
+(b)Thuộc da(/b), thành phần thiết yếu để sản xuất (b)Da thuộc(/b) có thể được lấy từ vỏ của cây.
+	</string>	
+	
+	
+</strings>
