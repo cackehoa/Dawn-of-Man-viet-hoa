@@ -36,3 +36,5 @@ Fanpage: [fb](https://www.facebook.com/cackehoa)
 Discord: [Discord](https://discord.gg/Z5C98FG)
 
 Youtube: [Cắc kè hoa](https://www.youtube.com/c/Cắckèhoa)
+# Giấy phép
+[MIT](LICENSE)
